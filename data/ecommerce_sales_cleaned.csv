@@ -1,0 +1,1501 @@
+order_id,order_date,customer_id,customer_name,city,state,category,product,quantity,unit_price,payment_method,order_status,total_amount
+ORD0140,2025-01-01,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Smartwatch,3,5336.42,Net Banking,Completed,16009.26
+ORD0079,2025-01-01,C020,Simran Kaur,Amritsar,Punjab,Clothing,Jacket,2,2660.33,Debit Card,Completed,5320.66
+ORD0839,2025-01-01,C003,Rahul Verma,Delhi,Delhi,Beauty,Moisturizer,1,638.75,Credit Card,Completed,638.75
+ORD1182,2025-01-01,C010,Anjali Rao,Kolkata,West Bengal,Books,SQL for Beginners,2,586.84,Debit Card,Completed,1173.68
+ORD1039,2025-01-02,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Jacket,1,2256.28,Debit Card,Completed,2256.28
+ORD1283,2025-01-02,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Cookware Set,1,3750.32,Credit Card,Completed,3750.32
+ORD0155,2025-01-02,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Smartwatch,2,4920.44,Cash on Delivery,Completed,9840.88
+ORD0996,2025-01-02,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Laptop,1,51989.05,UPI,Completed,51989.05
+ORD0408,2025-01-02,C003,Rahul Verma,Delhi,Delhi,Beauty,Hair Dryer,3,1847.3,Credit Card,Completed,5541.9
+ORD0460,2025-01-03,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Sneakers,4,2774.51,UPI,Completed,11098.04
+ORD0570,2025-01-03,C020,Simran Kaur,Amritsar,Punjab,Clothing,Kurta,2,1285.07,UPI,Completed,2570.14
+ORD0281,2025-01-03,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Face Wash,2,437.4,Cash on Delivery,Completed,874.8
+ORD1010,2025-01-03,C006,Neha Singh,Jaipur,Rajasthan,Books,SQL for Beginners,4,575.02,Credit Card,Completed,2300.08
+ORD1372,2025-01-04,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Table Lamp,3,1173.11,UPI,Completed,3519.33
+ORD0333,2025-01-04,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Hair Dryer,1,2034.26,Credit Card,Completed,2034.26
+ORD0116,2025-01-04,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Smartphone,2,30629.03,UPI,Shipped,61258.06
+ORD0178,2025-01-04,C012,Meera Nair,Kochi,Kerala,Clothing,Jeans,4,1696.21,Net Banking,Completed,6784.84
+ORD0899,2025-01-04,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,SQL for Beginners,1,563.48,Cash on Delivery,Completed,563.48
+ORD0738,2025-01-04,C001,Amit Sharma,Pune,Maharashtra,Home & Kitchen,Electric Kettle,2,1551.65,Debit Card,Completed,3103.3
+ORD1415,2025-01-05,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Smartphone,1,28375.92,Credit Card,Completed,28375.92
+ORD1322,2025-01-05,C001,Amit Sharma,Pune,Maharashtra,Electronics,Laptop,2,51612.18,Debit Card,Completed,103224.36
+ORD0051,2025-01-05,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Python Programming,2,659.27,Credit Card,Completed,1318.54
+ORD0355,2025-01-05,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Smartphone,1,27600.33,Cash on Delivery,Completed,27600.33
+ORD1341,2025-01-05,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Laptop,2,57323.92,Net Banking,Completed,114647.84
+ORD0951,2025-01-05,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,SQL for Beginners,2,539.35,Credit Card,Completed,1078.7
+ORD0075,2025-01-05,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Moisturizer,1,727.83,Credit Card,Completed,727.83
+ORD0694,2025-01-05,C020,Simran Kaur,Amritsar,Punjab,Clothing,Sneakers,2,2762.43,UPI,Completed,5524.86
+ORD0478,2025-01-06,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Cookware Set,4,3634.21,Credit Card,Completed,14536.84
+ORD0300,2025-01-07,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Hair Dryer,4,1978.92,Credit Card,Completed,7915.68
+ORD0074,2025-01-07,C010,Anjali Rao,Kolkata,West Bengal,Home & Kitchen,Electric Kettle,1,1379.42,Credit Card,Completed,1379.42
+ORD1321,2025-01-08,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Shampoo,2,619.98,UPI,Completed,1239.96
+ORD0247,2025-01-08,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Hair Dryer,1,1879.8,Cash on Delivery,Completed,1879.8
+ORD1483,2025-01-08,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,T-Shirt,4,804.98,Credit Card,Completed,3219.92
+ORD0785,2025-01-09,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Table Lamp,2,1337.81,UPI,Completed,2675.62
+ORD0034,2025-01-09,C012,Meera Nair,Kochi,Kerala,Electronics,Bluetooth Speaker,2,3766.77,UPI,Completed,7533.54
+ORD0013,2025-01-09,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Cookware Set,1,3611.61,Net Banking,Completed,3611.61
+ORD1399,2025-01-10,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Headphones,1,2383.57,Credit Card,Completed,2383.57
+ORD0607,2025-01-11,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Kurta,3,1248.61,Net Banking,Completed,3745.83
+ORD1130,2025-01-11,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Laptop,4,54718.98,UPI,Completed,218875.92
+ORD0557,2025-01-11,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Smartphone,1,26386.61,UPI,Completed,26386.61
+ORD1467,2025-01-11,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Laptop,2,51689.91,UPI,Completed,103379.82
+ORD0448,2025-01-12,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Cookware Set,1,4219.22,Credit Card,Completed,4219.22
+ORD0170,2025-01-12,C012,Meera Nair,Kochi,Kerala,Beauty,Perfume,3,1350.68,UPI,Completed,4052.04
+ORD0287,2025-01-12,C015,Manish Jain,Indore,Madhya Pradesh,Books,SQL for Beginners,2,641.1,Cash on Delivery,Completed,1282.2
+ORD0226,2025-01-12,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Kurta,3,1190.31,UPI,Completed,3570.93
+ORD1055,2025-01-12,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Headphones,1,2394.22,UPI,Completed,2394.22
+ORD1100,2025-01-12,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Shampoo,1,588.06,Net Banking,Completed,588.06
+ORD0518,2025-01-12,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Hair Dryer,2,1873.83,UPI,Completed,3747.66
+ORD0047,2025-01-13,C010,Anjali Rao,Kolkata,West Bengal,Books,Data Analytics,1,954.76,UPI,Completed,954.76
+ORD0787,2025-01-13,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Moisturizer,4,724.03,UPI,Completed,2896.12
+ORD0624,2025-01-13,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Python Programming,1,702.07,Debit Card,Completed,702.07
+ORD0121,2025-01-13,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Data Analytics,1,987.09,Debit Card,Completed,987.09
+ORD0329,2025-01-14,C010,Anjali Rao,Kolkata,West Bengal,Books,SQL for Beginners,2,628.44,Debit Card,Completed,1256.88
+ORD0107,2025-01-14,C014,Kavita Das,Bhubaneswar,Odisha,Books,Business Management,1,523.7,UPI,Completed,523.7
+ORD1177,2025-01-14,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Sneakers,3,3242.37,Credit Card,Completed,9727.11
+ORD1462,2025-01-14,C010,Anjali Rao,Kolkata,West Bengal,Books,Data Analytics,2,961.26,Credit Card,Completed,1922.52
+ORD0235,2025-01-14,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Smartwatch,3,4678.75,Cash on Delivery,Completed,14036.25
+ORD1351,2025-01-15,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Clothing,T-Shirt,1,750.49,UPI,Completed,750.49
+ORD0708,2025-01-15,C002,Priya Patel,Mumbai,Maharashtra,Books,Fiction Novel,3,390.85,Net Banking,Completed,1172.5500000000002
+ORD0367,2025-01-16,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Sneakers,2,3142.79,Cash on Delivery,Completed,6285.58
+ORD0060,2025-01-16,C001,Amit Sharma,Pune,Maharashtra,Books,Business Management,2,517.36,UPI,Completed,1034.72
+ORD1404,2025-01-16,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Smartphone,1,26533.28,Credit Card,Completed,26533.28
+ORD0387,2025-01-16,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Business Management,4,511.59,UPI,Completed,2046.36
+ORD0985,2025-01-16,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Headphones,2,2360.2,Net Banking,Completed,4720.4
+ORD0781,2025-01-16,C002,Priya Patel,Mumbai,Maharashtra,Beauty,Perfume,4,1477.92,UPI,Completed,5911.68
+ORD0399,2025-01-17,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Sneakers,2,2869.78,UPI,Completed,5739.56
+ORD0563,2025-01-17,C007,Rohit Kumar,Hyderabad,Telangana,Books,Python Programming,1,631.63,Net Banking,Completed,631.63
+ORD1279,2025-01-17,C020,Simran Kaur,Amritsar,Punjab,Electronics,Smartwatch,3,5192.82,Credit Card,Completed,15578.46
+ORD0677,2025-01-18,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Electric Kettle,4,1486.9,UPI,Shipped,5947.6
+ORD0880,2025-01-18,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Jacket,1,2670.93,UPI,Completed,2670.93
+ORD0820,2025-01-18,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Clothing,Kurta,1,1270.89,Credit Card,Completed,1270.89
+ORD0920,2025-01-19,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Table Lamp,3,1416.47,Credit Card,Shipped,4249.41
+ORD0850,2025-01-19,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Table Lamp,2,1228.07,UPI,Completed,2456.14
+ORD0336,2025-01-19,C006,Neha Singh,Jaipur,Rajasthan,Books,Python Programming,4,744.45,Credit Card,Completed,2977.8
+ORD0481,2025-01-19,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Mixer Grinder,2,3454.91,UPI,Completed,6909.82
+ORD0243,2025-01-20,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Smartphone,1,28174.55,UPI,Completed,28174.55
+ORD0231,2025-01-20,C020,Simran Kaur,Amritsar,Punjab,Electronics,Bluetooth Speaker,2,3663.7,Credit Card,Completed,7327.4
+ORD0719,2025-01-20,C011,Karan Shah,Surat,Gujarat,Books,SQL for Beginners,1,546.98,Credit Card,Completed,546.98
+ORD1040,2025-01-20,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Hair Dryer,2,2160.2,Credit Card,Completed,4320.4
+ORD0953,2025-01-20,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Smartphone,3,26217.88,UPI,Completed,78653.64
+ORD0461,2025-01-21,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,SQL for Beginners,3,608.49,UPI,Completed,1825.47
+ORD0260,2025-01-21,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Bedsheet,1,1042.06,UPI,Completed,1042.06
+ORD0234,2025-01-21,C012,Meera Nair,Kochi,Kerala,Electronics,Headphones,2,2481.91,Debit Card,Completed,4963.82
+ORD0547,2025-01-21,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Bluetooth Speaker,1,3279.02,Debit Card,Completed,3279.02
+ORD0583,2025-01-22,C001,Amit Sharma,Pune,Maharashtra,Clothing,Jacket,1,2481.0,UPI,Completed,2481.0
+ORD0750,2025-01-22,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Smartwatch,1,5002.55,UPI,Shipped,5002.55
+ORD1150,2025-01-22,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,3,3619.94,Debit Card,Completed,10859.82
+ORD1221,2025-01-23,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Sneakers,4,3062.98,Credit Card,Completed,12251.92
+ORD1131,2025-01-23,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Smartwatch,2,5414.06,UPI,Shipped,10828.12
+ORD0454,2025-01-23,C001,Amit Sharma,Pune,Maharashtra,Books,Fiction Novel,4,359.45,UPI,Completed,1437.8
+ORD0331,2025-01-24,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Table Lamp,2,1336.25,UPI,Completed,2672.5
+ORD1060,2025-01-24,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Bedsheet,2,915.47,Cash on Delivery,Shipped,1830.94
+ORD0825,2025-01-24,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Jacket,1,2724.61,Credit Card,Completed,2724.61
+ORD0071,2025-01-25,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Table Lamp,2,1192.92,Credit Card,Completed,2385.84
+ORD0292,2025-01-25,C020,Simran Kaur,Amritsar,Punjab,Electronics,Headphones,1,2448.35,Debit Card,Completed,2448.35
+ORD1226,2025-01-25,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Electric Kettle,2,1607.82,Net Banking,Completed,3215.64
+ORD1493,2025-01-26,C012,Meera Nair,Kochi,Kerala,Electronics,Bluetooth Speaker,1,3192.17,UPI,Completed,3192.17
+ORD0601,2025-01-26,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Shampoo,3,616.08,Debit Card,Completed,1848.2400000000002
+ORD1041,2025-01-26,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Fiction Novel,1,420.19,Credit Card,Completed,420.19
+ORD0907,2025-01-27,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Face Wash,1,422.76,Credit Card,Completed,422.76
+ORD0209,2025-01-27,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Table Lamp,3,1228.87,Net Banking,Shipped,3686.6099999999997
+ORD1499,2025-01-27,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Jacket,3,2728.07,Credit Card,Completed,8184.210000000001
+ORD0212,2025-01-27,C012,Meera Nair,Kochi,Kerala,Beauty,Moisturizer,4,695.02,Cash on Delivery,Completed,2780.08
+ORD0085,2025-01-28,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Jacket,1,2363.75,UPI,Shipped,2363.75
+ORD1292,2025-01-28,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Table Lamp,2,1217.95,Credit Card,Completed,2435.9
+ORD0522,2025-01-29,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,SQL for Beginners,2,551.24,UPI,Shipped,1102.48
+ORD0160,2025-01-29,C011,Karan Shah,Surat,Gujarat,Home & Kitchen,Bedsheet,2,925.53,UPI,Completed,1851.06
+ORD1005,2025-01-29,C001,Amit Sharma,Pune,Maharashtra,Electronics,Headphones,3,2355.66,Net Banking,Completed,7066.98
+ORD1353,2025-01-29,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Table Lamp,4,1300.01,Net Banking,Completed,5200.04
+ORD0754,2025-01-29,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Headphones,1,2620.1,UPI,Completed,2620.1
+ORD0567,2025-01-30,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Headphones,1,2286.93,Debit Card,Completed,2286.93
+ORD0691,2025-01-30,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Moisturizer,2,744.76,UPI,Completed,1489.52
+ORD1032,2025-01-31,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Smartphone,4,30788.67,Net Banking,Completed,123154.68
+ORD0512,2025-02-01,C017,Aditya Mishra,Noida,Uttar Pradesh,Electronics,Headphones,1,2330.59,UPI,Shipped,2330.59
+ORD1390,2025-02-01,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Headphones,1,2472.62,Credit Card,Completed,2472.62
+ORD0320,2025-02-01,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Business Management,2,477.63,UPI,Completed,955.26
+ORD1188,2025-02-01,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Moisturizer,1,637.48,UPI,Completed,637.48
+ORD0217,2025-02-01,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Bedsheet,4,1018.98,Debit Card,Completed,4075.92
+ORD0897,2025-02-02,C011,Karan Shah,Surat,Gujarat,Clothing,Kurta,3,1240.69,UPI,Completed,3722.07
+ORD0061,2025-02-02,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Hair Dryer,2,1954.29,Credit Card,Completed,3908.58
+ORD1400,2025-02-02,C001,Amit Sharma,Pune,Maharashtra,Beauty,Moisturizer,1,727.67,UPI,Completed,727.67
+ORD1107,2025-02-02,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Table Lamp,4,1299.91,Net Banking,Completed,5199.64
+ORD0015,2025-02-02,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Jeans,1,1638.43,UPI,Completed,1638.43
+ORD0039,2025-02-02,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Clothing,Jeans,1,1649.4,Credit Card,Completed,1649.4
+ORD0206,2025-02-02,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Electric Kettle,4,1368.77,UPI,Completed,5475.08
+ORD1485,2025-02-03,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Bedsheet,2,1090.08,Net Banking,Completed,2180.16
+ORD1430,2025-02-03,C012,Meera Nair,Kochi,Kerala,Books,Python Programming,1,758.94,UPI,Completed,758.94
+ORD0008,2025-02-04,C007,Rohit Kumar,Hyderabad,Telangana,Home & Kitchen,Electric Kettle,2,1598.89,Cash on Delivery,Completed,3197.78
+ORD0016,2025-02-04,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Headphones,2,2567.75,Credit Card,Completed,5135.5
+ORD0733,2025-02-04,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Laptop,2,51326.58,Debit Card,Shipped,102653.16
+ORD0867,2025-02-04,C011,Karan Shah,Surat,Gujarat,Clothing,T-Shirt,1,825.68,UPI,Completed,825.68
+ORD0229,2025-02-04,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Headphones,2,2348.83,UPI,Completed,4697.66
+ORD0795,2025-02-04,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Table Lamp,1,1253.21,Net Banking,Completed,1253.21
+ORD0265,2025-02-05,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Kurta,2,1235.76,Credit Card,Completed,2471.52
+ORD0710,2025-02-05,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Electric Kettle,3,1392.06,Cash on Delivery,Completed,4176.18
+ORD0798,2025-02-05,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Jeans,1,1690.17,UPI,Completed,1690.17
+ORD0279,2025-02-05,C020,Simran Kaur,Amritsar,Punjab,Clothing,Jacket,3,2530.14,Cash on Delivery,Completed,7590.42
+ORD0976,2025-02-06,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Smartwatch,2,4688.51,UPI,Completed,9377.02
+ORD0438,2025-02-06,C004,Sneha Joshi,Bengaluru,Karnataka,Books,Fiction Novel,2,418.19,UPI,Shipped,836.38
+ORD1268,2025-02-07,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Laptop,1,56166.15,UPI,Completed,56166.15
+ORD0539,2025-02-07,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Face Wash,4,426.01,UPI,Completed,1704.04
+ORD0693,2025-02-07,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Sneakers,4,2765.76,UPI,Completed,11063.04
+ORD1385,2025-02-07,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Smartwatch,1,4562.35,Net Banking,Completed,4562.35
+ORD0961,2025-02-07,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Kurta,4,1236.66,UPI,Completed,4946.64
+ORD0122,2025-02-07,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Sneakers,1,2769.09,Credit Card,Completed,2769.09
+ORD1325,2025-02-07,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Face Wash,4,408.96,Net Banking,Completed,1635.84
+ORD1463,2025-02-07,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Bluetooth Speaker,2,3195.62,Credit Card,Completed,6391.24
+ORD0378,2025-02-08,C014,Kavita Das,Bhubaneswar,Odisha,Beauty,Hair Dryer,3,2160.36,Net Banking,Completed,6481.08
+ORD0199,2025-02-08,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Kurta,1,1228.5,UPI,Completed,1228.5
+ORD0964,2025-02-08,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Mixer Grinder,1,3305.16,Cash on Delivery,Shipped,3305.16
+ORD0264,2025-02-08,C011,Karan Shah,Surat,Gujarat,Clothing,Jeans,4,1713.94,Credit Card,Completed,6855.76
+ORD0484,2025-02-08,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Table Lamp,3,1335.53,Net Banking,Shipped,4006.59
+ORD1045,2025-02-08,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Hair Dryer,2,1917.8,Cash on Delivery,Shipped,3835.6
+ORD0988,2025-02-08,C010,Anjali Rao,Kolkata,West Bengal,Beauty,Moisturizer,4,745.56,Cash on Delivery,Completed,2982.24
+ORD0742,2025-02-08,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Face Wash,3,419.36,Credit Card,Completed,1258.08
+ORD0651,2025-02-09,C003,Rahul Verma,Delhi,Delhi,Books,SQL for Beginners,4,622.92,UPI,Completed,2491.68
+ORD0192,2025-02-09,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Electric Kettle,1,1591.79,Cash on Delivery,Completed,1591.79
+ORD1345,2025-02-09,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Laptop,3,55737.36,UPI,Completed,167212.08000000002
+ORD0115,2025-02-09,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Data Analytics,1,903.41,Debit Card,Shipped,903.41
+ORD0921,2025-02-09,C003,Rahul Verma,Delhi,Delhi,Clothing,Kurta,2,1271.01,UPI,Completed,2542.02
+ORD1448,2025-02-09,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Python Programming,2,707.2,Credit Card,Completed,1414.4
+ORD0365,2025-02-09,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Headphones,1,2387.5,Credit Card,Completed,2387.5
+ORD0373,2025-02-10,C001,Amit Sharma,Pune,Maharashtra,Books,Python Programming,1,648.95,Debit Card,Completed,648.95
+ORD0496,2025-02-10,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Hair Dryer,2,2035.43,UPI,Completed,4070.86
+ORD0072,2025-02-11,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Fiction Novel,4,366.38,Cash on Delivery,Shipped,1465.52
+ORD0726,2025-02-11,C015,Manish Jain,Indore,Madhya Pradesh,Books,Data Analytics,3,817.75,Net Banking,Completed,2453.25
+ORD0924,2025-02-11,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Perfume,4,1520.04,Cash on Delivery,Completed,6080.16
+ORD0913,2025-02-11,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Smartphone,2,25240.0,UPI,Completed,50480.0
+ORD0826,2025-02-11,C003,Rahul Verma,Delhi,Delhi,Books,SQL for Beginners,1,647.55,UPI,Shipped,647.55
+ORD0274,2025-02-11,C014,Kavita Das,Bhubaneswar,Odisha,Beauty,Perfume,2,1566.26,Cash on Delivery,Completed,3132.52
+ORD0161,2025-02-11,C011,Karan Shah,Surat,Gujarat,Clothing,T-Shirt,1,803.74,Credit Card,Completed,803.74
+ORD0112,2025-02-11,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Table Lamp,1,1315.75,UPI,Completed,1315.75
+ORD0761,2025-02-12,C011,Karan Shah,Surat,Gujarat,Books,Fiction Novel,1,433.16,Credit Card,Completed,433.16
+ORD0599,2025-02-12,C020,Simran Kaur,Amritsar,Punjab,Beauty,Moisturizer,1,714.34,Credit Card,Completed,714.34
+ORD0917,2025-02-12,C014,Kavita Das,Bhubaneswar,Odisha,Books,Business Management,1,505.83,Credit Card,Completed,505.83
+ORD1484,2025-02-12,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Fiction Novel,4,366.67,Net Banking,Completed,1466.68
+ORD0715,2025-02-12,C020,Simran Kaur,Amritsar,Punjab,Books,Data Analytics,1,862.82,UPI,Completed,862.82
+ORD0462,2025-02-13,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,SQL for Beginners,3,600.9,UPI,Completed,1802.6999999999998
+ORD0714,2025-02-13,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Electric Kettle,1,1598.39,Debit Card,Completed,1598.39
+ORD0197,2025-02-14,C001,Amit Sharma,Pune,Maharashtra,Beauty,Face Wash,1,385.75,Debit Card,Completed,385.75
+ORD0756,2025-02-14,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Table Lamp,2,1171.01,Credit Card,Completed,2342.02
+ORD1290,2025-02-14,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Jeans,1,1577.82,UPI,Completed,1577.82
+ORD0469,2025-02-14,C011,Karan Shah,Surat,Gujarat,Clothing,Jacket,1,2552.05,UPI,Completed,2552.05
+ORD1458,2025-02-14,C003,Rahul Verma,Delhi,Delhi,Clothing,Jeans,1,1603.77,Credit Card,Completed,1603.77
+ORD0441,2025-02-14,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Cookware Set,2,4157.17,Cash on Delivery,Completed,8314.34
+ORD1143,2025-02-15,C001,Amit Sharma,Pune,Maharashtra,Home & Kitchen,Bedsheet,2,1026.34,Debit Card,Shipped,2052.68
+ORD1329,2025-02-15,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Cookware Set,1,4020.85,Cash on Delivery,Completed,4020.85
+ORD0554,2025-02-15,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Bluetooth Speaker,4,3274.54,UPI,Completed,13098.16
+ORD0214,2025-02-15,C012,Meera Nair,Kochi,Kerala,Books,Python Programming,2,764.36,Credit Card,Completed,1528.72
+ORD0042,2025-02-15,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Shampoo,2,651.77,Cash on Delivery,Completed,1303.54
+ORD0504,2025-02-16,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Perfume,3,1386.68,Net Banking,Shipped,4160.04
+ORD0849,2025-02-16,C004,Sneha Joshi,Bengaluru,Karnataka,Beauty,Moisturizer,1,732.26,Net Banking,Completed,732.26
+ORD1195,2025-02-16,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Kurta,1,1221.22,UPI,Completed,1221.22
+ORD0082,2025-02-16,C003,Rahul Verma,Delhi,Delhi,Beauty,Perfume,2,1371.72,Debit Card,Completed,2743.44
+ORD0678,2025-02-16,C010,Anjali Rao,Kolkata,West Bengal,Beauty,Perfume,2,1415.86,Credit Card,Shipped,2831.72
+ORD0307,2025-02-17,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Sneakers,1,3184.27,UPI,Completed,3184.27
+ORD1042,2025-02-17,C001,Amit Sharma,Pune,Maharashtra,Electronics,Laptop,1,58959.35,UPI,Shipped,58959.35
+ORD0680,2025-02-17,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Fiction Novel,3,371.84,UPI,Completed,1115.52
+ORD1273,2025-02-19,C020,Simran Kaur,Amritsar,Punjab,Beauty,Moisturizer,1,728.9,Net Banking,Completed,728.9
+ORD0807,2025-02-19,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Business Management,2,460.34,UPI,Completed,920.68
+ORD0213,2025-02-19,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Python Programming,4,692.53,Net Banking,Completed,2770.12
+ORD0388,2025-02-19,C012,Meera Nair,Kochi,Kerala,Electronics,Headphones,1,2746.62,Credit Card,Completed,2746.62
+ORD0049,2025-02-20,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Smartphone,4,28963.35,Credit Card,Completed,115853.4
+ORD0729,2025-02-20,C012,Meera Nair,Kochi,Kerala,Clothing,T-Shirt,3,773.0,Cash on Delivery,Completed,2319.0
+ORD1380,2025-02-20,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Laptop,4,57332.79,UPI,Completed,229331.16
+ORD0876,2025-02-20,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Shampoo,1,627.83,UPI,Shipped,627.83
+ORD0407,2025-02-20,C011,Karan Shah,Surat,Gujarat,Home & Kitchen,Cookware Set,1,4000.72,Cash on Delivery,Completed,4000.72
+ORD0474,2025-02-21,C011,Karan Shah,Surat,Gujarat,Home & Kitchen,Mixer Grinder,1,3390.67,UPI,Completed,3390.67
+ORD0262,2025-02-21,C013,Suresh Patil,Nagpur,Maharashtra,Books,SQL for Beginners,1,551.25,Debit Card,Shipped,551.25
+ORD1111,2025-02-21,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,SQL for Beginners,3,616.82,Net Banking,Completed,1850.46
+ORD0608,2025-02-21,C002,Priya Patel,Mumbai,Maharashtra,Beauty,Hair Dryer,1,1906.47,Credit Card,Completed,1906.47
+ORD1153,2025-02-21,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Clothing,Jeans,4,1570.86,Credit Card,Shipped,6283.44
+ORD0186,2025-02-21,C011,Karan Shah,Surat,Gujarat,Home & Kitchen,Cookware Set,1,3732.69,UPI,Completed,3732.69
+ORD1237,2025-02-22,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Shampoo,3,540.2,Cash on Delivery,Shipped,1620.6000000000001
+ORD0864,2025-02-22,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Perfume,3,1411.16,UPI,Completed,4233.4800000000005
+ORD1203,2025-02-22,C012,Meera Nair,Kochi,Kerala,Electronics,Bluetooth Speaker,1,3797.82,UPI,Completed,3797.82
+ORD0447,2025-02-22,C020,Simran Kaur,Amritsar,Punjab,Beauty,Hair Dryer,1,1895.82,Net Banking,Completed,1895.82
+ORD1189,2025-02-22,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Face Wash,1,366.2,UPI,Shipped,366.2
+ORD0981,2025-02-22,C003,Rahul Verma,Delhi,Delhi,Clothing,T-Shirt,2,770.61,Net Banking,Completed,1541.22
+ORD1062,2025-02-22,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Hair Dryer,3,2067.79,UPI,Completed,6203.37
+ORD0007,2025-02-22,C014,Kavita Das,Bhubaneswar,Odisha,Beauty,Moisturizer,1,671.69,UPI,Completed,671.69
+ORD0534,2025-02-23,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Shampoo,1,540.1,UPI,Completed,540.1
+ORD0050,2025-02-23,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Hair Dryer,1,2127.98,Credit Card,Completed,2127.98
+ORD1330,2025-02-23,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Moisturizer,2,647.1,Net Banking,Shipped,1294.2
+ORD0188,2025-02-23,C003,Rahul Verma,Delhi,Delhi,Books,Business Management,3,529.02,Cash on Delivery,Completed,1587.06
+ORD0009,2025-02-23,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Smartwatch,1,4924.17,Credit Card,Completed,4924.17
+ORD0150,2025-02-24,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Smartphone,2,29684.2,UPI,Completed,59368.4
+ORD0467,2025-02-24,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Jeans,2,1548.41,Credit Card,Completed,3096.82
+ORD0751,2025-02-24,C010,Anjali Rao,Kolkata,West Bengal,Books,Fiction Novel,4,406.87,UPI,Completed,1627.48
+ORD0005,2025-02-24,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Table Lamp,3,1220.98,Cash on Delivery,Completed,3662.94
+ORD0444,2025-02-24,C003,Rahul Verma,Delhi,Delhi,Clothing,Jacket,4,2713.53,Cash on Delivery,Completed,10854.12
+ORD0363,2025-02-24,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Smartwatch,2,5133.56,Debit Card,Completed,10267.12
+ORD1471,2025-02-25,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Data Analytics,2,979.01,Debit Card,Completed,1958.02
+ORD1165,2025-02-25,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Kurta,1,1341.05,Debit Card,Completed,1341.05
+ORD0928,2025-02-26,C004,Sneha Joshi,Bengaluru,Karnataka,Beauty,Perfume,3,1437.67,Debit Card,Completed,4313.01
+ORD1269,2025-02-26,C001,Amit Sharma,Pune,Maharashtra,Electronics,Bluetooth Speaker,4,3726.32,Credit Card,Completed,14905.28
+ORD0885,2025-02-26,C002,Priya Patel,Mumbai,Maharashtra,Books,Python Programming,1,696.99,Credit Card,Completed,696.99
+ORD0436,2025-02-26,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Sneakers,1,2825.48,Net Banking,Shipped,2825.48
+ORD0519,2025-02-26,C012,Meera Nair,Kochi,Kerala,Beauty,Shampoo,3,579.12,Net Banking,Completed,1737.3600000000001
+ORD0879,2025-02-26,C010,Anjali Rao,Kolkata,West Bengal,Books,Fiction Novel,1,422.3,UPI,Completed,422.3
+ORD0828,2025-02-26,C014,Kavita Das,Bhubaneswar,Odisha,Books,Business Management,3,520.75,UPI,Shipped,1562.25
+ORD1084,2025-02-27,C007,Rohit Kumar,Hyderabad,Telangana,Home & Kitchen,Bedsheet,1,1007.82,Credit Card,Completed,1007.82
+ORD0834,2025-02-27,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Hair Dryer,1,1861.38,UPI,Completed,1861.38
+ORD0639,2025-02-27,C011,Karan Shah,Surat,Gujarat,Electronics,Smartwatch,1,4954.63,Debit Card,Completed,4954.63
+ORD0491,2025-02-27,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Smartwatch,1,4739.45,Net Banking,Shipped,4739.45
+ORD0596,2025-02-28,C011,Karan Shah,Surat,Gujarat,Books,Python Programming,2,699.05,Debit Card,Completed,1398.1
+ORD0529,2025-02-28,C016,Riya Kapoor,Chandigarh,Chandigarh,Clothing,T-Shirt,1,803.12,Credit Card,Completed,803.12
+ORD0033,2025-03-01,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Face Wash,1,437.48,UPI,Shipped,437.48
+ORD1272,2025-03-02,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Sneakers,1,2957.2,Net Banking,Completed,2957.2
+ORD1159,2025-03-02,C001,Amit Sharma,Pune,Maharashtra,Beauty,Perfume,1,1465.44,Net Banking,Completed,1465.44
+ORD0587,2025-03-02,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Mixer Grinder,2,3672.68,Net Banking,Shipped,7345.36
+ORD1276,2025-03-02,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Perfume,1,1571.8,Debit Card,Completed,1571.8
+ORD1304,2025-03-02,C001,Amit Sharma,Pune,Maharashtra,Books,Business Management,2,544.69,Net Banking,Completed,1089.38
+ORD0592,2025-03-02,C004,Sneha Joshi,Bengaluru,Karnataka,Beauty,Perfume,1,1551.8,UPI,Completed,1551.8
+ORD0545,2025-03-02,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Smartwatch,3,5001.63,Credit Card,Completed,15004.89
+ORD0340,2025-03-02,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Sneakers,1,3051.64,Cash on Delivery,Completed,3051.64
+ORD0126,2025-03-03,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Perfume,1,1539.1,UPI,Completed,1539.1
+ORD0576,2025-03-03,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Kurta,2,1309.82,UPI,Completed,2619.64
+ORD0410,2025-03-03,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Table Lamp,1,1405.55,Credit Card,Completed,1405.55
+ORD0999,2025-03-03,C001,Amit Sharma,Pune,Maharashtra,Electronics,Smartwatch,2,5374.61,Cash on Delivery,Completed,10749.22
+ORD0089,2025-03-04,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Shampoo,1,610.28,UPI,Completed,610.28
+ORD0685,2025-03-04,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Jacket,4,2315.06,UPI,Completed,9260.24
+ORD0544,2025-03-04,C005,Arjun Mehta,Ahmedabad,Gujarat,Home & Kitchen,Table Lamp,2,1278.06,UPI,Completed,2556.12
+ORD0962,2025-03-05,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Face Wash,4,404.76,UPI,Completed,1619.04
+ORD0963,2025-03-05,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Jeans,2,1587.49,Debit Card,Completed,3174.98
+ORD0772,2025-03-05,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Laptop,3,53409.83,Debit Card,Completed,160229.49
+ORD0891,2025-03-06,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Table Lamp,2,1365.63,UPI,Completed,2731.26
+ORD1496,2025-03-06,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,2,3195.49,Debit Card,Completed,6390.98
+ORD0647,2025-03-07,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Data Analytics,1,888.22,UPI,Completed,888.22
+ORD1405,2025-03-07,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,1,3649.76,Debit Card,Completed,3649.76
+ORD0993,2025-03-07,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Face Wash,1,388.3,Debit Card,Completed,388.3
+ORD0755,2025-03-08,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,T-Shirt,2,871.3,UPI,Completed,1742.6
+ORD0643,2025-03-08,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Cookware Set,1,4329.5,UPI,Completed,4329.5
+ORD1110,2025-03-08,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Table Lamp,4,1359.5,Cash on Delivery,Completed,5438.0
+ORD1006,2025-03-09,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Smartphone,3,27546.0,Credit Card,Completed,82638.0
+ORD0857,2025-03-09,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Hair Dryer,4,1841.53,Debit Card,Shipped,7366.12
+ORD0358,2025-03-09,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Jeans,2,1491.77,Net Banking,Completed,2983.54
+ORD0992,2025-03-09,C020,Simran Kaur,Amritsar,Punjab,Electronics,Bluetooth Speaker,2,3530.48,Cash on Delivery,Completed,7060.96
+ORD0268,2025-03-09,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Shampoo,1,569.73,UPI,Completed,569.73
+ORD1421,2025-03-09,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Headphones,2,2346.46,Debit Card,Completed,4692.92
+ORD0342,2025-03-10,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Kurta,1,1280.72,Net Banking,Completed,1280.72
+ORD0099,2025-03-10,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Kurta,1,1236.19,Cash on Delivery,Completed,1236.19
+ORD1481,2025-03-10,C011,Karan Shah,Surat,Gujarat,Books,Business Management,4,517.77,UPI,Completed,2071.08
+ORD1004,2025-03-10,C020,Simran Kaur,Amritsar,Punjab,Electronics,Bluetooth Speaker,2,3687.96,Cash on Delivery,Shipped,7375.92
+ORD0998,2025-03-10,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Kurta,1,1413.44,Net Banking,Completed,1413.44
+ORD0548,2025-03-10,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Hair Dryer,1,1843.25,UPI,Shipped,1843.25
+ORD0967,2025-03-10,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Electric Kettle,2,1486.81,Net Banking,Completed,2973.62
+ORD0166,2025-03-10,C002,Priya Patel,Mumbai,Maharashtra,Books,Data Analytics,4,980.64,Credit Card,Completed,3922.56
+ORD1334,2025-03-10,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Jeans,4,1637.84,UPI,Completed,6551.36
+ORD0865,2025-03-10,C005,Arjun Mehta,Ahmedabad,Gujarat,Home & Kitchen,Mixer Grinder,4,3450.26,Debit Card,Completed,13801.04
+ORD0330,2025-03-11,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Mixer Grinder,1,3738.31,Net Banking,Shipped,3738.31
+ORD1419,2025-03-11,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Hair Dryer,1,2083.76,Credit Card,Completed,2083.76
+ORD0510,2025-03-11,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Sneakers,2,2784.37,UPI,Shipped,5568.74
+ORD1424,2025-03-12,C010,Anjali Rao,Kolkata,West Bengal,Books,Business Management,2,464.0,UPI,Completed,928.0
+ORD0326,2025-03-13,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Jacket,1,2528.01,UPI,Completed,2528.01
+ORD0660,2025-03-13,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Headphones,3,2340.4,Net Banking,Completed,7021.200000000001
+ORD0001,2025-03-13,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Hair Dryer,2,1872.44,Credit Card,Completed,3744.88
+ORD0535,2025-03-14,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Table Lamp,2,1281.96,Credit Card,Shipped,2563.92
+ORD0275,2025-03-14,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Jacket,2,2696.02,UPI,Completed,5392.04
+ORD1235,2025-03-14,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Kurta,1,1427.5,Cash on Delivery,Completed,1427.5
+ORD0168,2025-03-14,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Sneakers,1,2983.55,UPI,Completed,2983.55
+ORD0942,2025-03-15,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Headphones,1,2315.96,UPI,Completed,2315.96
+ORD1231,2025-03-15,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Perfume,1,1421.74,UPI,Completed,1421.74
+ORD1437,2025-03-15,C012,Meera Nair,Kochi,Kerala,Beauty,Face Wash,4,424.29,Debit Card,Completed,1697.16
+ORD0446,2025-03-15,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Data Analytics,4,964.97,Credit Card,Completed,3859.88
+ORD1409,2025-03-15,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Mixer Grinder,2,3788.33,UPI,Completed,7576.66
+ORD1293,2025-03-15,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Table Lamp,1,1359.85,Debit Card,Completed,1359.85
+ORD1214,2025-03-16,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Bedsheet,1,1008.31,UPI,Completed,1008.31
+ORD1194,2025-03-16,C011,Karan Shah,Surat,Gujarat,Beauty,Face Wash,3,438.27,Debit Card,Completed,1314.81
+ORD0065,2025-03-16,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Smartwatch,1,5195.7,Net Banking,Completed,5195.7
+ORD0430,2025-03-16,C006,Neha Singh,Jaipur,Rajasthan,Books,Data Analytics,1,897.46,UPI,Completed,897.46
+ORD1133,2025-03-16,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Smartphone,4,30692.26,Debit Card,Completed,122769.04
+ORD0987,2025-03-16,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,2,3432.85,UPI,Completed,6865.7
+ORD0056,2025-03-17,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,SQL for Beginners,2,589.37,Credit Card,Completed,1178.74
+ORD0255,2025-03-17,C007,Rohit Kumar,Hyderabad,Telangana,Books,Fiction Novel,2,385.0,Debit Card,Completed,770.0
+ORD1220,2025-03-17,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Headphones,4,2249.22,Debit Card,Completed,8996.88
+ORD0930,2025-03-17,C003,Rahul Verma,Delhi,Delhi,Books,SQL for Beginners,1,580.08,Debit Card,Completed,580.08
+ORD0162,2025-03-17,C017,Aditya Mishra,Noida,Uttar Pradesh,Electronics,Bluetooth Speaker,1,3497.23,UPI,Completed,3497.23
+ORD1408,2025-03-18,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Kurta,2,1231.38,Credit Card,Completed,2462.76
+ORD0619,2025-03-18,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Shampoo,1,560.12,Credit Card,Completed,560.12
+ORD1459,2025-03-18,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,SQL for Beginners,2,623.33,Credit Card,Completed,1246.66
+ORD1207,2025-03-18,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Perfume,1,1482.72,UPI,Completed,1482.72
+ORD1302,2025-03-18,C010,Anjali Rao,Kolkata,West Bengal,Books,Business Management,1,503.41,Credit Card,Completed,503.41
+ORD1068,2025-03-19,C011,Karan Shah,Surat,Gujarat,Home & Kitchen,Electric Kettle,2,1401.08,Credit Card,Completed,2802.16
+ORD0800,2025-03-19,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Headphones,1,2679.64,Credit Card,Completed,2679.64
+ORD1085,2025-03-19,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Face Wash,2,422.73,UPI,Completed,845.46
+ORD0513,2025-03-19,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Perfume,1,1600.63,Debit Card,Shipped,1600.63
+ORD0821,2025-03-20,C011,Karan Shah,Surat,Gujarat,Clothing,Jeans,2,1601.84,Net Banking,Completed,3203.68
+ORD0810,2025-03-20,C020,Simran Kaur,Amritsar,Punjab,Beauty,Shampoo,2,656.0,UPI,Completed,1312.0
+ORD0239,2025-03-21,C011,Karan Shah,Surat,Gujarat,Clothing,Kurta,1,1283.94,Credit Card,Completed,1283.94
+ORD1134,2025-03-22,C002,Priya Patel,Mumbai,Maharashtra,Beauty,Face Wash,4,364.42,Debit Card,Completed,1457.68
+ORD0833,2025-03-22,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Smartphone,1,26287.93,Credit Card,Completed,26287.93
+ORD1433,2025-03-22,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Smartwatch,3,4651.73,UPI,Completed,13955.189999999999
+ORD0926,2025-03-22,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Python Programming,3,704.34,Net Banking,Completed,2113.02
+ORD0887,2025-03-23,C012,Meera Nair,Kochi,Kerala,Electronics,Smartphone,1,29363.24,UPI,Completed,29363.24
+ORD0616,2025-03-23,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Jacket,2,2257.01,Credit Card,Completed,4514.02
+ORD0305,2025-03-23,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Smartphone,2,26563.48,Credit Card,Completed,53126.96
+ORD0848,2025-03-23,C010,Anjali Rao,Kolkata,West Bengal,Beauty,Face Wash,2,432.24,UPI,Completed,864.48
+ORD1470,2025-03-23,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Jacket,3,2370.03,Debit Card,Completed,7110.09
+ORD0818,2025-03-23,C001,Amit Sharma,Pune,Maharashtra,Electronics,Laptop,2,55136.32,UPI,Completed,110272.64
+ORD1460,2025-03-24,C007,Rohit Kumar,Hyderabad,Telangana,Home & Kitchen,Cookware Set,3,4374.55,Debit Card,Completed,13123.650000000001
+ORD0797,2025-03-24,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Perfume,1,1444.12,Net Banking,Completed,1444.12
+ORD0382,2025-03-24,C006,Neha Singh,Jaipur,Rajasthan,Books,Data Analytics,3,963.43,Cash on Delivery,Completed,2890.29
+ORD0145,2025-03-25,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Python Programming,1,653.99,Credit Card,Completed,653.99
+ORD0405,2025-03-25,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Bluetooth Speaker,1,3566.41,Cash on Delivery,Completed,3566.41
+ORD0345,2025-03-25,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Electric Kettle,2,1468.67,Debit Card,Shipped,2937.34
+ORD0224,2025-03-25,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Clothing,Jacket,1,2561.63,UPI,Completed,2561.63
+ORD0966,2025-03-25,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Laptop,1,57769.74,UPI,Completed,57769.74
+ORD0527,2025-03-25,C020,Simran Kaur,Amritsar,Punjab,Clothing,Sneakers,3,3116.44,UPI,Completed,9349.32
+ORD1312,2025-03-26,C015,Manish Jain,Indore,Madhya Pradesh,Books,SQL for Beginners,1,593.75,Net Banking,Completed,593.75
+ORD0501,2025-03-26,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Jacket,4,2350.85,UPI,Completed,9403.4
+ORD0092,2025-03-26,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Kurta,1,1267.27,Credit Card,Completed,1267.27
+ORD1012,2025-03-26,C011,Karan Shah,Surat,Gujarat,Clothing,Jeans,1,1572.58,Debit Card,Completed,1572.58
+ORD0968,2025-03-26,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Kurta,1,1250.07,UPI,Shipped,1250.07
+ORD0020,2025-03-27,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Cookware Set,4,3830.84,Net Banking,Completed,15323.36
+ORD0477,2025-03-27,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Bluetooth Speaker,3,3341.34,Net Banking,Completed,10024.02
+ORD0565,2025-03-27,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Business Management,1,495.51,Net Banking,Completed,495.51
+ORD0723,2025-03-27,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,2,3620.56,UPI,Completed,7241.12
+ORD0875,2025-03-27,C006,Neha Singh,Jaipur,Rajasthan,Clothing,T-Shirt,3,856.93,UPI,Shipped,2570.79
+ORD1069,2025-03-27,C010,Anjali Rao,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,4,3244.31,Credit Card,Shipped,12977.24
+ORD0351,2025-03-28,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Python Programming,1,649.37,UPI,Completed,649.37
+ORD0713,2025-03-28,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,T-Shirt,2,770.8,Credit Card,Completed,1541.6
+ORD0744,2025-03-28,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Laptop,4,59126.47,UPI,Completed,236505.88
+ORD0923,2025-03-28,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Data Analytics,3,869.31,Net Banking,Completed,2607.93
+ORD1063,2025-03-28,C011,Karan Shah,Surat,Gujarat,Beauty,Shampoo,4,600.17,UPI,Completed,2400.68
+ORD0508,2025-03-29,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Smartwatch,1,5431.84,UPI,Completed,5431.84
+ORD1394,2025-03-29,C020,Simran Kaur,Amritsar,Punjab,Beauty,Face Wash,2,379.64,Debit Card,Completed,759.28
+ORD1377,2025-03-29,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Electric Kettle,1,1646.53,UPI,Completed,1646.53
+ORD0888,2025-03-29,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,4,3801.71,UPI,Completed,15206.84
+ORD0218,2025-03-29,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Sneakers,1,2987.31,UPI,Completed,2987.31
+ORD1157,2025-03-29,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Moisturizer,1,673.92,Credit Card,Completed,673.92
+ORD0604,2025-03-29,C015,Manish Jain,Indore,Madhya Pradesh,Books,Business Management,1,522.7,Net Banking,Completed,522.7
+ORD0190,2025-03-30,C003,Rahul Verma,Delhi,Delhi,Electronics,Headphones,3,2560.44,Credit Card,Completed,7681.32
+ORD0883,2025-03-30,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Laptop,4,52630.6,UPI,Completed,210522.4
+ORD1295,2025-03-30,C003,Rahul Verma,Delhi,Delhi,Electronics,Headphones,2,2679.33,UPI,Completed,5358.66
+ORD1314,2025-03-30,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Kurta,2,1181.23,UPI,Completed,2362.46
+ORD0812,2025-03-30,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,SQL for Beginners,1,547.89,Credit Card,Completed,547.89
+ORD0614,2025-03-30,C010,Anjali Rao,Kolkata,West Bengal,Books,Python Programming,1,693.19,Credit Card,Completed,693.19
+ORD1142,2025-03-30,C020,Simran Kaur,Amritsar,Punjab,Books,Python Programming,2,720.81,Debit Card,Completed,1441.62
+ORD1258,2025-03-31,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Cookware Set,1,4031.6,Net Banking,Shipped,4031.6
+ORD0064,2025-03-31,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Jacket,2,2671.37,UPI,Completed,5342.74
+ORD1347,2025-03-31,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Smartphone,4,28749.56,UPI,Completed,114998.24
+ORD0472,2025-03-31,C015,Manish Jain,Indore,Madhya Pradesh,Books,SQL for Beginners,1,563.66,UPI,Completed,563.66
+ORD1048,2025-03-31,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Shampoo,1,642.92,UPI,Completed,642.92
+ORD0994,2025-03-31,C007,Rohit Kumar,Hyderabad,Telangana,Home & Kitchen,Table Lamp,4,1195.8,Credit Card,Completed,4783.2
+ORD0856,2025-03-31,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Sneakers,3,3026.41,Credit Card,Completed,9079.23
+ORD0600,2025-03-31,C020,Simran Kaur,Amritsar,Punjab,Clothing,T-Shirt,1,821.22,Credit Card,Completed,821.22
+ORD0978,2025-03-31,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Fiction Novel,4,438.48,Credit Card,Completed,1753.92
+ORD0119,2025-03-31,C020,Simran Kaur,Amritsar,Punjab,Beauty,Shampoo,2,552.86,Net Banking,Completed,1105.72
+ORD0904,2025-03-31,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Bedsheet,1,1033.77,Credit Card,Completed,1033.77
+ORD0142,2025-03-31,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Headphones,4,2456.27,Cash on Delivery,Completed,9825.08
+ORD1166,2025-04-01,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Business Management,4,449.49,UPI,Completed,1797.96
+ORD1145,2025-04-01,C010,Anjali Rao,Kolkata,West Bengal,Beauty,Moisturizer,3,686.46,Debit Card,Completed,2059.38
+ORD1247,2025-04-02,C020,Simran Kaur,Amritsar,Punjab,Electronics,Smartphone,3,27501.22,Credit Card,Completed,82503.66
+ORD1118,2025-04-02,C010,Anjali Rao,Kolkata,West Bengal,Books,Business Management,1,500.52,Debit Card,Completed,500.52
+ORD0152,2025-04-02,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Bluetooth Speaker,1,3770.14,UPI,Completed,3770.14
+ORD0359,2025-04-02,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Python Programming,4,752.07,UPI,Shipped,3008.28
+ORD0102,2025-04-02,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Perfume,1,1595.47,UPI,Completed,1595.47
+ORD0138,2025-04-02,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Jacket,4,2325.34,UPI,Completed,9301.36
+ORD1489,2025-04-03,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Kurta,4,1243.98,Debit Card,Completed,4975.92
+ORD1232,2025-04-03,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,4,943.35,UPI,Completed,3773.4
+ORD1140,2025-04-03,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Bedsheet,4,972.28,UPI,Completed,3889.12
+ORD1406,2025-04-03,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Table Lamp,1,1265.16,Cash on Delivery,Completed,1265.16
+ORD0717,2025-04-05,C003,Rahul Verma,Delhi,Delhi,Electronics,Bluetooth Speaker,1,3536.17,UPI,Completed,3536.17
+ORD0745,2025-04-05,C012,Meera Nair,Kochi,Kerala,Clothing,Jacket,3,2483.77,Cash on Delivery,Completed,7451.3099999999995
+ORD0749,2025-04-05,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,1,3458.82,Net Banking,Completed,3458.82
+ORD1324,2025-04-05,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Data Analytics,1,840.87,Cash on Delivery,Completed,840.87
+ORD0699,2025-04-05,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Jeans,1,1606.55,Credit Card,Completed,1606.55
+ORD1305,2025-04-06,C013,Suresh Patil,Nagpur,Maharashtra,Books,Data Analytics,3,857.95,UPI,Completed,2573.8500000000004
+ORD0628,2025-04-06,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Shampoo,3,658.85,UPI,Completed,1976.5500000000002
+ORD0673,2025-04-06,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Kurta,1,1233.92,UPI,Shipped,1233.92
+ORD0641,2025-04-07,C001,Amit Sharma,Pune,Maharashtra,Clothing,Kurta,1,1426.74,Cash on Delivery,Completed,1426.74
+ORD0551,2025-04-07,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Kurta,1,1413.6,UPI,Shipped,1413.6
+ORD1376,2025-04-07,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Table Lamp,2,1399.0,UPI,Completed,2798.0
+ORD0817,2025-04-07,C002,Priya Patel,Mumbai,Maharashtra,Books,Data Analytics,2,830.74,Debit Card,Shipped,1661.48
+ORD0838,2025-04-07,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Headphones,4,2565.6,Cash on Delivery,Shipped,10262.4
+ORD0769,2025-04-08,C020,Simran Kaur,Amritsar,Punjab,Beauty,Shampoo,2,622.01,Debit Card,Completed,1244.02
+ORD1457,2025-04-08,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Moisturizer,1,694.64,UPI,Completed,694.64
+ORD0090,2025-04-09,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Cookware Set,1,3973.96,UPI,Completed,3973.96
+ORD0793,2025-04-09,C010,Anjali Rao,Kolkata,West Bengal,Books,Data Analytics,3,875.08,Credit Card,Completed,2625.2400000000002
+ORD0411,2025-04-09,C006,Neha Singh,Jaipur,Rajasthan,Books,Python Programming,3,748.19,UPI,Completed,2244.57
+ORD1037,2025-04-09,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Sneakers,2,3270.27,Credit Card,Completed,6540.54
+ORD0459,2025-04-10,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,T-Shirt,1,835.83,Debit Card,Completed,835.83
+ORD0002,2025-04-10,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Data Analytics,1,891.67,UPI,Completed,891.67
+ORD0452,2025-04-10,C011,Karan Shah,Surat,Gujarat,Beauty,Perfume,1,1601.75,Cash on Delivery,Shipped,1601.75
+ORD1114,2025-04-10,C006,Neha Singh,Jaipur,Rajasthan,Clothing,T-Shirt,2,766.92,UPI,Completed,1533.84
+ORD0925,2025-04-10,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Table Lamp,1,1286.0,Debit Card,Completed,1286.0
+ORD0380,2025-04-10,C002,Priya Patel,Mumbai,Maharashtra,Books,Business Management,3,495.04,UPI,Completed,1485.1200000000001
+ORD0458,2025-04-10,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Sneakers,2,2948.92,Net Banking,Completed,5897.84
+ORD0366,2025-04-11,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,2,3723.2,Credit Card,Completed,7446.4
+ORD1354,2025-04-11,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Headphones,4,2623.71,Net Banking,Completed,10494.84
+ORD0995,2025-04-11,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Sneakers,4,3293.88,UPI,Completed,13175.52
+ORD0900,2025-04-11,C004,Sneha Joshi,Bengaluru,Karnataka,Books,Fiction Novel,4,389.2,Credit Card,Completed,1556.8
+ORD0456,2025-04-11,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Perfume,2,1648.74,Credit Card,Completed,3297.48
+ORD1002,2025-04-12,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Moisturizer,3,653.42,UPI,Shipped,1960.2599999999998
+ORD0253,2025-04-12,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Sneakers,1,3226.03,UPI,Completed,3226.03
+ORD1495,2025-04-12,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Headphones,1,2321.59,Credit Card,Shipped,2321.59
+ORD0278,2025-04-12,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Smartphone,4,27319.47,Credit Card,Completed,109277.88
+ORD0635,2025-04-12,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Data Analytics,3,874.89,UPI,Completed,2624.67
+ORD0176,2025-04-13,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Hair Dryer,4,1981.07,UPI,Completed,7924.28
+ORD0982,2025-04-13,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Electric Kettle,3,1573.21,Cash on Delivery,Completed,4719.63
+ORD0886,2025-04-14,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Perfume,2,1415.15,Credit Card,Completed,2830.3
+ORD0577,2025-04-14,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,3,3419.37,UPI,Completed,10258.11
+ORD0585,2025-04-14,C014,Kavita Das,Bhubaneswar,Odisha,Books,Business Management,4,539.02,Debit Card,Completed,2156.08
+ORD1285,2025-04-14,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Sneakers,1,2957.6,Net Banking,Completed,2957.6
+ORD1238,2025-04-15,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Table Lamp,4,1295.37,UPI,Completed,5181.48
+ORD1497,2025-04-15,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Jacket,2,2492.86,Credit Card,Completed,4985.72
+ORD0533,2025-04-16,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Smartwatch,1,5338.73,Debit Card,Completed,5338.73
+ORD1021,2025-04-16,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,T-Shirt,3,863.63,Debit Card,Completed,2590.89
+ORD0674,2025-04-16,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Face Wash,1,403.74,UPI,Shipped,403.74
+ORD0896,2025-04-16,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Bedsheet,1,1049.23,Credit Card,Completed,1049.23
+ORD1288,2025-04-17,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Shampoo,1,541.3,UPI,Completed,541.3
+ORD0571,2025-04-17,C004,Sneha Joshi,Bengaluru,Karnataka,Beauty,Hair Dryer,1,2061.66,Cash on Delivery,Completed,2061.66
+ORD0698,2025-04-17,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Face Wash,3,360.98,UPI,Completed,1082.94
+ORD1452,2025-04-18,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,T-Shirt,2,858.44,Credit Card,Shipped,1716.88
+ORD0325,2025-04-18,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Data Analytics,2,825.96,Debit Card,Completed,1651.92
+ORD0242,2025-04-18,C012,Meera Nair,Kochi,Kerala,Books,Business Management,2,535.35,Credit Card,Completed,1070.7
+ORD0939,2025-04-18,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Smartphone,1,28125.98,Cash on Delivery,Completed,28125.98
+ORD0401,2025-04-18,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Bedsheet,2,977.94,Debit Card,Completed,1955.88
+ORD0421,2025-04-19,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Table Lamp,3,1270.29,Cash on Delivery,Completed,3810.87
+ORD0494,2025-04-19,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Electric Kettle,1,1600.83,UPI,Completed,1600.83
+ORD0423,2025-04-19,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Headphones,1,2662.34,UPI,Completed,2662.34
+ORD1303,2025-04-19,C002,Priya Patel,Mumbai,Maharashtra,Beauty,Shampoo,2,548.81,Credit Card,Completed,1097.62
+ORD1181,2025-04-20,C010,Anjali Rao,Kolkata,West Bengal,Books,Data Analytics,1,978.33,Net Banking,Completed,978.33
+ORD0878,2025-04-20,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Electric Kettle,1,1407.55,Net Banking,Completed,1407.55
+ORD1412,2025-04-20,C014,Kavita Das,Bhubaneswar,Odisha,Beauty,Face Wash,3,436.8,Credit Card,Completed,1310.4
+ORD0291,2025-04-20,C001,Amit Sharma,Pune,Maharashtra,Electronics,Smartwatch,4,4986.06,Net Banking,Completed,19944.24
+ORD0443,2025-04-21,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Smartphone,1,27456.09,UPI,Completed,27456.09
+ORD1251,2025-04-21,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Kurta,1,1408.69,UPI,Completed,1408.69
+ORD0100,2025-04-21,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,1,3317.15,UPI,Completed,3317.15
+ORD1366,2025-04-21,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Headphones,1,2481.35,Net Banking,Completed,2481.35
+ORD1301,2025-04-22,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,T-Shirt,4,858.25,UPI,Completed,3433.0
+ORD0990,2025-04-22,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Laptop,2,51571.33,Net Banking,Completed,103142.66
+ORD0328,2025-04-22,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Jeans,1,1499.23,Net Banking,Completed,1499.23
+ORD0025,2025-04-23,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Smartphone,1,26884.92,Cash on Delivery,Completed,26884.92
+ORD0165,2025-04-23,C011,Karan Shah,Surat,Gujarat,Clothing,Jacket,1,2426.87,Debit Card,Completed,2426.87
+ORD1121,2025-04-23,C012,Meera Nair,Kochi,Kerala,Electronics,Smartphone,1,30782.36,UPI,Completed,30782.36
+ORD0306,2025-04-23,C020,Simran Kaur,Amritsar,Punjab,Clothing,T-Shirt,1,844.55,Cash on Delivery,Completed,844.55
+ORD0758,2025-04-23,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,T-Shirt,1,748.71,Debit Card,Completed,748.71
+ORD1219,2025-04-23,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Laptop,1,56774.85,UPI,Completed,56774.85
+ORD0645,2025-04-23,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Headphones,1,2719.68,UPI,Completed,2719.68
+ORD0813,2025-04-23,C003,Rahul Verma,Delhi,Delhi,Electronics,Bluetooth Speaker,1,3603.09,UPI,Completed,3603.09
+ORD1291,2025-04-23,C020,Simran Kaur,Amritsar,Punjab,Beauty,Moisturizer,1,671.71,UPI,Completed,671.71
+ORD0148,2025-04-23,C014,Kavita Das,Bhubaneswar,Odisha,Beauty,Perfume,4,1507.29,Credit Card,Completed,6029.16
+ORD1417,2025-04-23,C010,Anjali Rao,Kolkata,West Bengal,Beauty,Perfume,1,1461.21,Debit Card,Completed,1461.21
+ORD1013,2025-04-24,C012,Meera Nair,Kochi,Kerala,Books,SQL for Beginners,2,567.43,UPI,Completed,1134.86
+ORD1064,2025-04-24,C011,Karan Shah,Surat,Gujarat,Electronics,Bluetooth Speaker,2,3678.37,UPI,Completed,7356.74
+ORD0517,2025-04-24,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Jacket,4,2405.47,Net Banking,Shipped,9621.88
+ORD1014,2025-04-25,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Smartphone,1,30570.87,Net Banking,Completed,30570.87
+ORD1280,2025-04-25,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,T-Shirt,3,827.05,Credit Card,Completed,2481.1499999999996
+ORD1038,2025-04-25,C001,Amit Sharma,Pune,Maharashtra,Clothing,Jeans,3,1566.91,Cash on Delivery,Completed,4700.7300000000005
+ORD0806,2025-04-26,C003,Rahul Verma,Delhi,Delhi,Beauty,Hair Dryer,4,1841.24,Credit Card,Completed,7364.96
+ORD0337,2025-04-26,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Data Analytics,1,825.03,UPI,Completed,825.03
+ORD1116,2025-04-26,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Table Lamp,3,1425.88,UPI,Completed,4277.64
+ORD0983,2025-04-26,C001,Amit Sharma,Pune,Maharashtra,Beauty,Shampoo,1,653.86,Cash on Delivery,Completed,653.86
+ORD0490,2025-04-26,C007,Rohit Kumar,Hyderabad,Telangana,Home & Kitchen,Bedsheet,1,1056.45,UPI,Completed,1056.45
+ORD0489,2025-04-27,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Shampoo,1,586.12,UPI,Completed,586.12
+ORD1067,2025-04-28,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Data Analytics,3,901.2,Credit Card,Shipped,2703.6000000000004
+ORD0746,2025-04-28,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Laptop,1,58406.43,Debit Card,Completed,58406.43
+ORD0730,2025-04-28,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Fiction Novel,2,420.27,UPI,Shipped,840.54
+ORD0118,2025-04-28,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Electric Kettle,2,1405.18,Debit Card,Completed,2810.36
+ORD1265,2025-04-28,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Sneakers,1,2894.5,Credit Card,Completed,2894.5
+ORD0853,2025-04-28,C003,Rahul Verma,Delhi,Delhi,Clothing,Jacket,2,2644.58,Debit Card,Completed,5289.16
+ORD0413,2025-04-28,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Mixer Grinder,1,3408.06,Debit Card,Completed,3408.06
+ORD0940,2025-04-29,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Perfume,2,1463.29,UPI,Completed,2926.58
+ORD0156,2025-04-29,C011,Karan Shah,Surat,Gujarat,Clothing,Kurta,4,1267.74,UPI,Completed,5070.96
+ORD0109,2025-04-29,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Headphones,1,2370.29,UPI,Completed,2370.29
+ORD1026,2025-04-30,C003,Rahul Verma,Delhi,Delhi,Clothing,T-Shirt,1,732.56,Net Banking,Completed,732.56
+ORD0035,2025-04-30,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Headphones,2,2692.47,Net Banking,Completed,5384.94
+ORD1363,2025-05-01,C012,Meera Nair,Kochi,Kerala,Electronics,Headphones,1,2417.01,UPI,Completed,2417.01
+ORD0901,2025-05-01,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Mixer Grinder,1,3528.79,UPI,Completed,3528.79
+ORD0870,2025-05-01,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Smartphone,1,29185.96,Cash on Delivery,Completed,29185.96
+ORD0104,2025-05-01,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Sneakers,1,3178.59,Debit Card,Completed,3178.59
+ORD0022,2025-05-01,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Laptop,1,52007.29,Net Banking,Completed,52007.29
+ORD0267,2025-05-01,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Sneakers,4,3065.57,Net Banking,Shipped,12262.28
+ORD0556,2025-05-02,C001,Amit Sharma,Pune,Maharashtra,Beauty,Shampoo,3,558.96,UPI,Completed,1676.88
+ORD1438,2025-05-02,C016,Riya Kapoor,Chandigarh,Chandigarh,Clothing,Sneakers,4,2736.72,UPI,Completed,10946.88
+ORD0419,2025-05-02,C015,Manish Jain,Indore,Madhya Pradesh,Books,Python Programming,3,647.28,UPI,Shipped,1941.84
+ORD0731,2025-05-02,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,1,3622.24,Credit Card,Shipped,3622.24
+ORD0672,2025-05-02,C013,Suresh Patil,Nagpur,Maharashtra,Books,Data Analytics,2,810.55,UPI,Completed,1621.1
+ORD0665,2025-05-02,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Hair Dryer,2,2071.5,Net Banking,Completed,4143.0
+ORD1066,2025-05-03,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Mixer Grinder,2,3402.19,Debit Card,Completed,6804.38
+ORD0191,2025-05-03,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,1,3422.84,UPI,Completed,3422.84
+ORD1414,2025-05-03,C011,Karan Shah,Surat,Gujarat,Clothing,Jeans,1,1448.32,Cash on Delivery,Completed,1448.32
+ORD0376,2025-05-04,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Jeans,3,1712.76,Cash on Delivery,Completed,5138.28
+ORD0572,2025-05-04,C002,Priya Patel,Mumbai,Maharashtra,Beauty,Shampoo,1,539.74,UPI,Completed,539.74
+ORD0299,2025-05-04,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Hair Dryer,2,2048.53,Net Banking,Completed,4097.06
+ORD0610,2025-05-05,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Jeans,2,1552.73,UPI,Shipped,3105.46
+ORD0356,2025-05-05,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Kurta,1,1393.04,Debit Card,Completed,1393.04
+ORD1480,2025-05-05,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Python Programming,2,757.15,Cash on Delivery,Completed,1514.3
+ORD0670,2025-05-05,C007,Rohit Kumar,Hyderabad,Telangana,Books,Business Management,2,540.56,Debit Card,Completed,1081.12
+ORD1173,2025-05-05,C001,Amit Sharma,Pune,Maharashtra,Beauty,Perfume,1,1520.04,Debit Card,Completed,1520.04
+ORD0415,2025-05-06,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Hair Dryer,1,1809.27,Credit Card,Completed,1809.27
+ORD1403,2025-05-06,C007,Rohit Kumar,Hyderabad,Telangana,Books,Data Analytics,2,855.33,UPI,Shipped,1710.66
+ORD0780,2025-05-06,C003,Rahul Verma,Delhi,Delhi,Electronics,Laptop,2,52530.9,Credit Card,Completed,105061.8
+ORD0890,2025-05-07,C014,Kavita Das,Bhubaneswar,Odisha,Beauty,Moisturizer,4,657.31,Debit Card,Completed,2629.24
+ORD1035,2025-05-07,C012,Meera Nair,Kochi,Kerala,Electronics,Smartwatch,2,5396.45,Debit Card,Completed,10792.9
+ORD1382,2025-05-07,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,T-Shirt,1,738.58,UPI,Shipped,738.58
+ORD1179,2025-05-07,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Clothing,T-Shirt,1,721.5,Cash on Delivery,Completed,721.5
+ORD0349,2025-05-07,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Laptop,1,53320.78,UPI,Completed,53320.78
+ORD1080,2025-05-07,C015,Manish Jain,Indore,Madhya Pradesh,Books,Fiction Novel,2,422.82,Credit Card,Completed,845.64
+ORD1129,2025-05-07,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Hair Dryer,4,1809.43,Credit Card,Shipped,7237.72
+ORD1266,2025-05-08,C005,Arjun Mehta,Ahmedabad,Gujarat,Home & Kitchen,Table Lamp,1,1269.44,UPI,Completed,1269.44
+ORD0612,2025-05-08,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Bluetooth Speaker,3,3695.33,UPI,Completed,11085.99
+ORD1428,2025-05-08,C001,Amit Sharma,Pune,Maharashtra,Books,Fiction Novel,1,428.92,UPI,Completed,428.92
+ORD0914,2025-05-08,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Kurta,3,1260.52,UPI,Completed,3781.56
+ORD1028,2025-05-09,C011,Karan Shah,Surat,Gujarat,Books,Fiction Novel,3,397.37,Debit Card,Completed,1192.1100000000001
+ORD0854,2025-05-09,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Business Management,2,523.43,UPI,Completed,1046.86
+ORD1498,2025-05-09,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Table Lamp,4,1405.78,Credit Card,Shipped,5623.12
+ORD0980,2025-05-09,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Smartphone,1,29451.74,UPI,Completed,29451.74
+ORD0054,2025-05-09,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Python Programming,3,745.97,UPI,Completed,2237.91
+ORD0790,2025-05-10,C010,Anjali Rao,Kolkata,West Bengal,Books,Business Management,1,524.95,Debit Card,Shipped,524.95
+ORD0792,2025-05-10,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Hair Dryer,2,1820.88,Cash on Delivery,Completed,3641.76
+ORD1007,2025-05-10,C012,Meera Nair,Kochi,Kerala,Electronics,Headphones,4,2276.26,UPI,Completed,9105.04
+ORD0851,2025-05-11,C014,Kavita Das,Bhubaneswar,Odisha,Beauty,Shampoo,1,638.46,UPI,Shipped,638.46
+ORD0177,2025-05-11,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Electric Kettle,2,1493.32,Debit Card,Completed,2986.64
+ORD0149,2025-05-11,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Laptop,2,50330.54,UPI,Completed,100661.08
+ORD0989,2025-05-12,C001,Amit Sharma,Pune,Maharashtra,Electronics,Bluetooth Speaker,4,3292.99,Credit Card,Completed,13171.96
+ORD1306,2025-05-12,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Shampoo,2,653.23,Net Banking,Completed,1306.46
+ORD1418,2025-05-12,C015,Manish Jain,Indore,Madhya Pradesh,Books,Fiction Novel,1,401.73,UPI,Shipped,401.73
+ORD1186,2025-05-12,C011,Karan Shah,Surat,Gujarat,Beauty,Hair Dryer,1,2002.47,Credit Card,Shipped,2002.47
+ORD0495,2025-05-12,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Jacket,2,2458.74,Net Banking,Completed,4917.48
+ORD1198,2025-05-12,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Sneakers,1,2822.59,Credit Card,Shipped,2822.59
+ORD1081,2025-05-12,C007,Rohit Kumar,Hyderabad,Telangana,Home & Kitchen,Bedsheet,2,923.35,UPI,Completed,1846.7
+ORD1216,2025-05-13,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Sneakers,1,2982.55,Credit Card,Completed,2982.55
+ORD1158,2025-05-13,C011,Karan Shah,Surat,Gujarat,Clothing,Jeans,3,1460.07,UPI,Completed,4380.21
+ORD0098,2025-05-13,C015,Manish Jain,Indore,Madhya Pradesh,Books,Data Analytics,1,964.15,Net Banking,Completed,964.15
+ORD1056,2025-05-14,C011,Karan Shah,Surat,Gujarat,Electronics,Smartwatch,1,4683.5,Credit Card,Completed,4683.5
+ORD0555,2025-05-14,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Shampoo,4,539.34,Net Banking,Completed,2157.36
+ORD0080,2025-05-14,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Fiction Novel,1,376.94,Net Banking,Shipped,376.94
+ORD1422,2025-05-14,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Data Analytics,4,923.83,Cash on Delivery,Completed,3695.32
+ORD1017,2025-05-15,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Laptop,4,60304.82,Credit Card,Completed,241219.28
+ORD0468,2025-05-15,C012,Meera Nair,Kochi,Kerala,Beauty,Face Wash,1,412.01,Net Banking,Completed,412.01
+ORD1371,2025-05-15,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Jeans,1,1707.48,Cash on Delivery,Completed,1707.48
+ORD0979,2025-05-15,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Data Analytics,2,930.51,Debit Card,Completed,1861.02
+ORD0397,2025-05-16,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Shampoo,3,545.03,UPI,Completed,1635.09
+ORD1323,2025-05-16,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Laptop,1,58414.8,UPI,Shipped,58414.8
+ORD0314,2025-05-16,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Face Wash,2,430.83,Net Banking,Completed,861.66
+ORD1078,2025-05-16,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Bedsheet,1,1056.73,Credit Card,Completed,1056.73
+ORD0762,2025-05-17,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Business Management,1,525.54,Credit Card,Completed,525.54
+ORD0485,2025-05-17,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,SQL for Beginners,2,598.87,Net Banking,Completed,1197.74
+ORD0642,2025-05-17,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Moisturizer,2,656.85,UPI,Completed,1313.7
+ORD0697,2025-05-18,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Python Programming,1,689.82,Credit Card,Completed,689.82
+ORD1254,2025-05-18,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Perfume,4,1389.73,UPI,Shipped,5558.92
+ORD1396,2025-05-18,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Smartphone,3,28659.27,Debit Card,Completed,85977.81
+ORD0357,2025-05-18,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Jacket,3,2652.14,Cash on Delivery,Completed,7956.42
+ORD1274,2025-05-19,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Kurta,4,1369.33,UPI,Completed,5477.32
+ORD1378,2025-05-19,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Face Wash,1,412.5,Credit Card,Completed,412.5
+ORD1190,2025-05-19,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Moisturizer,1,680.36,UPI,Shipped,680.36
+ORD0636,2025-05-19,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Clothing,Sneakers,1,2839.71,UPI,Completed,2839.71
+ORD0872,2025-05-19,C012,Meera Nair,Kochi,Kerala,Clothing,Sneakers,1,3016.19,UPI,Completed,3016.19
+ORD0632,2025-05-20,C011,Karan Shah,Surat,Gujarat,Electronics,Smartphone,1,27081.64,Debit Card,Completed,27081.64
+ORD1223,2025-05-21,C001,Amit Sharma,Pune,Maharashtra,Beauty,Moisturizer,4,749.15,Debit Card,Completed,2996.6
+ORD1209,2025-05-21,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Laptop,1,59204.59,Debit Card,Shipped,59204.59
+ORD0136,2025-05-21,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Bedsheet,1,929.74,UPI,Completed,929.74
+ORD0146,2025-05-21,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Shampoo,4,610.43,UPI,Completed,2441.72
+ORD0266,2025-05-21,C001,Amit Sharma,Pune,Maharashtra,Home & Kitchen,Electric Kettle,2,1538.92,Debit Card,Completed,3077.84
+ORD1109,2025-05-21,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Face Wash,1,430.11,Credit Card,Completed,430.11
+ORD1299,2025-05-22,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Bedsheet,1,1068.04,Cash on Delivery,Completed,1068.04
+ORD0048,2025-05-22,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Cookware Set,2,4118.94,Net Banking,Completed,8237.88
+ORD1381,2025-05-22,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Python Programming,4,642.39,Debit Card,Completed,2569.56
+ORD0284,2025-05-22,C012,Meera Nair,Kochi,Kerala,Clothing,T-Shirt,2,832.36,UPI,Completed,1664.72
+ORD0173,2025-05-23,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Fiction Novel,1,398.16,Debit Card,Completed,398.16
+ORD0898,2025-05-23,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Perfume,1,1358.83,Debit Card,Completed,1358.83
+ORD0147,2025-05-24,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Shampoo,2,584.35,Credit Card,Completed,1168.7
+ORD0029,2025-05-24,C006,Neha Singh,Jaipur,Rajasthan,Books,SQL for Beginners,1,636.91,Net Banking,Completed,636.91
+ORD0083,2025-05-24,C001,Amit Sharma,Pune,Maharashtra,Books,Python Programming,3,710.79,Debit Card,Shipped,2132.37
+ORD0076,2025-05-25,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Face Wash,2,388.68,Cash on Delivery,Shipped,777.36
+ORD0249,2025-05-25,C011,Karan Shah,Surat,Gujarat,Clothing,Kurta,3,1298.27,Net Banking,Completed,3894.81
+ORD0845,2025-05-25,C013,Suresh Patil,Nagpur,Maharashtra,Books,Business Management,3,478.84,UPI,Completed,1436.52
+ORD1252,2025-05-26,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Jacket,1,2305.6,Credit Card,Completed,2305.6
+ORD0263,2025-05-26,C003,Rahul Verma,Delhi,Delhi,Clothing,Jacket,1,2554.14,UPI,Shipped,2554.14
+ORD0111,2025-05-26,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Kurta,1,1337.66,UPI,Completed,1337.66
+ORD0822,2025-05-26,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Smartwatch,1,5307.01,Cash on Delivery,Completed,5307.01
+ORD1500,2025-05-26,C001,Amit Sharma,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,2,3500.78,UPI,Completed,7001.56
+ORD0579,2025-05-26,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Electric Kettle,1,1595.48,Cash on Delivery,Completed,1595.48
+ORD0916,2025-05-27,C020,Simran Kaur,Amritsar,Punjab,Clothing,Jacket,3,2477.54,Net Banking,Completed,7432.62
+ORD1271,2025-05-27,C001,Amit Sharma,Pune,Maharashtra,Clothing,Kurta,1,1401.83,Credit Card,Completed,1401.83
+ORD0515,2025-05-27,C016,Riya Kapoor,Chandigarh,Chandigarh,Clothing,T-Shirt,2,872.75,UPI,Completed,1745.5
+ORD0391,2025-05-27,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Bedsheet,4,926.58,Net Banking,Completed,3706.32
+ORD0219,2025-05-28,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Table Lamp,3,1329.7,UPI,Completed,3989.1000000000004
+ORD1492,2025-05-29,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Smartphone,3,30021.95,UPI,Completed,90065.85
+ORD0321,2025-05-29,C012,Meera Nair,Kochi,Kerala,Clothing,Sneakers,4,2850.39,Cash on Delivery,Completed,11401.56
+ORD0297,2025-05-29,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Data Analytics,1,839.79,UPI,Completed,839.79
+ORD0629,2025-05-29,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Cookware Set,1,3623.46,UPI,Completed,3623.46
+ORD0712,2025-05-29,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Face Wash,1,432.86,Debit Card,Completed,432.86
+ORD1391,2025-05-29,C003,Rahul Verma,Delhi,Delhi,Books,SQL for Beginners,2,555.51,UPI,Completed,1111.02
+ORD0552,2025-05-30,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Perfume,2,1499.94,Credit Card,Completed,2999.88
+ORD0374,2025-05-30,C011,Karan Shah,Surat,Gujarat,Books,Fiction Novel,4,408.65,Debit Card,Completed,1634.6
+ORD1416,2025-05-30,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Smartwatch,2,5462.72,Credit Card,Completed,10925.44
+ORD1215,2025-05-30,C020,Simran Kaur,Amritsar,Punjab,Books,SQL for Beginners,1,619.64,Credit Card,Shipped,619.64
+ORD0752,2025-05-30,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Perfume,4,1492.5,UPI,Completed,5970.0
+ORD1051,2025-05-31,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Python Programming,4,676.77,UPI,Completed,2707.08
+ORD0032,2025-05-31,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Moisturizer,1,723.56,Credit Card,Completed,723.56
+ORD0516,2025-05-31,C010,Anjali Rao,Kolkata,West Bengal,Books,Fiction Novel,2,413.14,UPI,Completed,826.28
+ORD0311,2025-06-01,C001,Amit Sharma,Pune,Maharashtra,Home & Kitchen,Cookware Set,1,3656.09,UPI,Completed,3656.09
+ORD0067,2025-06-01,C004,Sneha Joshi,Bengaluru,Karnataka,Beauty,Moisturizer,1,737.64,Net Banking,Completed,737.64
+ORD0799,2025-06-01,C006,Neha Singh,Jaipur,Rajasthan,Books,Fiction Novel,4,399.05,UPI,Completed,1596.2
+ORD0847,2025-06-01,C011,Karan Shah,Surat,Gujarat,Books,Python Programming,2,691.14,UPI,Completed,1382.28
+ORD0558,2025-06-01,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,SQL for Beginners,4,628.88,Debit Card,Completed,2515.52
+ORD1106,2025-06-01,C013,Suresh Patil,Nagpur,Maharashtra,Books,Data Analytics,4,820.77,Cash on Delivery,Completed,3283.08
+ORD1224,2025-06-01,C011,Karan Shah,Surat,Gujarat,Home & Kitchen,Electric Kettle,3,1534.04,UPI,Completed,4602.12
+ORD0183,2025-06-02,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Smartwatch,1,4732.66,UPI,Shipped,4732.66
+ORD1393,2025-06-03,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Clothing,Kurta,1,1193.98,UPI,Completed,1193.98
+ORD1191,2025-06-03,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Fiction Novel,1,368.77,Credit Card,Completed,368.77
+ORD0866,2025-06-03,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Headphones,2,2392.28,UPI,Completed,4784.56
+ORD0429,2025-06-03,C012,Meera Nair,Kochi,Kerala,Clothing,T-Shirt,1,870.77,Cash on Delivery,Completed,870.77
+ORD0350,2025-06-03,C011,Karan Shah,Surat,Gujarat,Beauty,Hair Dryer,4,2151.78,Credit Card,Completed,8607.12
+ORD0595,2025-06-04,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Mixer Grinder,1,3731.92,Debit Card,Completed,3731.92
+ORD1473,2025-06-04,C014,Kavita Das,Bhubaneswar,Odisha,Books,Python Programming,3,643.23,Debit Card,Shipped,1929.69
+ORD1260,2025-06-05,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Kurta,1,1399.7,Credit Card,Completed,1399.7
+ORD0084,2025-06-05,C010,Anjali Rao,Kolkata,West Bengal,Beauty,Face Wash,3,395.46,UPI,Completed,1186.3799999999999
+ORD1147,2025-06-05,C003,Rahul Verma,Delhi,Delhi,Beauty,Face Wash,4,368.48,Net Banking,Shipped,1473.92
+ORD0465,2025-06-05,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,T-Shirt,1,768.94,UPI,Completed,768.94
+ORD0451,2025-06-06,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,2,3667.58,Cash on Delivery,Completed,7335.16
+ORD0791,2025-06-06,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Jacket,4,2290.95,UPI,Completed,9163.8
+ORD0392,2025-06-06,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Python Programming,1,691.35,Debit Card,Completed,691.35
+ORD0280,2025-06-07,C015,Manish Jain,Indore,Madhya Pradesh,Books,Fiction Novel,4,401.86,Credit Card,Completed,1607.44
+ORD0288,2025-06-07,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Cookware Set,1,4138.41,Debit Card,Completed,4138.41
+ORD1388,2025-06-07,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Bluetooth Speaker,1,3208.15,UPI,Completed,3208.15
+ORD0132,2025-06-08,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Kurta,1,1195.84,UPI,Completed,1195.84
+ORD0936,2025-06-08,C012,Meera Nair,Kochi,Kerala,Electronics,Smartphone,1,26168.93,UPI,Completed,26168.93
+ORD0696,2025-06-08,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Jeans,2,1751.63,Debit Card,Completed,3503.26
+ORD0271,2025-06-09,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Bluetooth Speaker,4,3310.23,Debit Card,Completed,13240.92
+ORD1478,2025-06-10,C020,Simran Kaur,Amritsar,Punjab,Electronics,Smartphone,2,27588.66,UPI,Completed,55177.32
+ORD0120,2025-06-10,C011,Karan Shah,Surat,Gujarat,Electronics,Smartwatch,2,5031.58,UPI,Completed,10063.16
+ORD0154,2025-06-10,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Moisturizer,4,717.63,UPI,Completed,2870.52
+ORD0352,2025-06-10,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Perfume,1,1633.02,UPI,Completed,1633.02
+ORD0144,2025-06-10,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Hair Dryer,3,1812.64,UPI,Completed,5437.92
+ORD0933,2025-06-11,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Electric Kettle,3,1626.66,UPI,Completed,4879.9800000000005
+ORD1009,2025-06-11,C012,Meera Nair,Kochi,Kerala,Clothing,Kurta,1,1262.84,Debit Card,Completed,1262.84
+ORD0422,2025-06-11,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,1,3536.59,UPI,Completed,3536.59
+ORD1395,2025-06-12,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Smartwatch,1,5135.67,Credit Card,Completed,5135.67
+ORD1199,2025-06-12,C011,Karan Shah,Surat,Gujarat,Home & Kitchen,Bedsheet,3,920.33,Credit Card,Completed,2760.9900000000002
+ORD0289,2025-06-12,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Hair Dryer,3,1831.45,UPI,Completed,5494.35
+ORD0661,2025-06-12,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Shampoo,4,575.43,UPI,Completed,2301.72
+ORD0346,2025-06-12,C012,Meera Nair,Kochi,Kerala,Clothing,Kurta,3,1178.53,UPI,Completed,3535.59
+ORD0211,2025-06-12,C001,Amit Sharma,Pune,Maharashtra,Clothing,T-Shirt,4,838.28,UPI,Completed,3353.12
+ORD1442,2025-06-13,C012,Meera Nair,Kochi,Kerala,Books,Python Programming,1,690.19,UPI,Completed,690.19
+ORD0789,2025-06-13,C003,Rahul Verma,Delhi,Delhi,Electronics,Bluetooth Speaker,2,3166.33,Credit Card,Completed,6332.66
+ORD0711,2025-06-13,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Smartwatch,1,4806.92,Debit Card,Completed,4806.92
+ORD1264,2025-06-13,C011,Karan Shah,Surat,Gujarat,Clothing,Kurta,1,1312.6,Cash on Delivery,Shipped,1312.6
+ORD0238,2025-06-13,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Headphones,2,2253.61,Cash on Delivery,Completed,4507.22
+ORD0269,2025-06-13,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Kurta,1,1193.92,UPI,Completed,1193.92
+ORD1253,2025-06-14,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Headphones,4,2380.57,Net Banking,Shipped,9522.28
+ORD1163,2025-06-14,C011,Karan Shah,Surat,Gujarat,Beauty,Perfume,1,1441.85,Credit Card,Completed,1441.85
+ORD0910,2025-06-14,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Table Lamp,4,1421.59,Credit Card,Completed,5686.36
+ORD0023,2025-06-14,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,T-Shirt,1,785.8,Debit Card,Completed,785.8
+ORD0153,2025-06-14,C014,Kavita Das,Bhubaneswar,Odisha,Books,Business Management,3,531.96,UPI,Completed,1595.88
+ORD0659,2025-06-15,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,SQL for Beginners,1,557.79,Credit Card,Completed,557.79
+ORD0972,2025-06-15,C011,Karan Shah,Surat,Gujarat,Books,Python Programming,1,722.87,Credit Card,Completed,722.87
+ORD1364,2025-06-15,C020,Simran Kaur,Amritsar,Punjab,Beauty,Moisturizer,4,657.93,Credit Card,Completed,2631.72
+ORD0977,2025-06-15,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Face Wash,3,363.01,UPI,Shipped,1089.03
+ORD0903,2025-06-16,C020,Simran Kaur,Amritsar,Punjab,Electronics,Bluetooth Speaker,1,3481.02,Debit Card,Completed,3481.02
+ORD0935,2025-06-16,C005,Arjun Mehta,Ahmedabad,Gujarat,Home & Kitchen,Bedsheet,2,1036.99,Cash on Delivery,Completed,2073.98
+ORD0006,2025-06-16,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Perfume,4,1400.22,UPI,Shipped,5600.88
+ORD0509,2025-06-16,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,T-Shirt,1,738.6,Net Banking,Completed,738.6
+ORD0361,2025-06-16,C001,Amit Sharma,Pune,Maharashtra,Clothing,Kurta,2,1376.51,Debit Card,Completed,2753.02
+ORD0514,2025-06-17,C004,Sneha Joshi,Bengaluru,Karnataka,Books,Business Management,1,499.11,UPI,Completed,499.11
+ORD0062,2025-06-17,C005,Arjun Mehta,Ahmedabad,Gujarat,Home & Kitchen,Electric Kettle,1,1595.06,Cash on Delivery,Completed,1595.06
+ORD0906,2025-06-17,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Data Analytics,3,816.0,UPI,Completed,2448.0
+ORD0543,2025-06-17,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,1,3642.78,Credit Card,Completed,3642.78
+ORD0830,2025-06-17,C016,Riya Kapoor,Chandigarh,Chandigarh,Home & Kitchen,Electric Kettle,1,1605.11,UPI,Completed,1605.11
+ORD1466,2025-06-17,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,T-Shirt,1,844.27,UPI,Shipped,844.27
+ORD1196,2025-06-18,C016,Riya Kapoor,Chandigarh,Chandigarh,Clothing,Sneakers,2,2857.43,UPI,Completed,5714.86
+ORD1367,2025-06-18,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Moisturizer,4,756.71,UPI,Completed,3026.84
+ORD0252,2025-06-18,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Clothing,T-Shirt,4,875.25,Cash on Delivery,Completed,3501.0
+ORD0841,2025-06-19,C017,Aditya Mishra,Noida,Uttar Pradesh,Electronics,Laptop,1,60145.17,Credit Card,Shipped,60145.17
+ORD1449,2025-06-19,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,3,3237.77,Net Banking,Completed,9713.31
+ORD1000,2025-06-19,C014,Kavita Das,Bhubaneswar,Odisha,Books,Fiction Novel,4,384.29,UPI,Completed,1537.16
+ORD0004,2025-06-19,C012,Meera Nair,Kochi,Kerala,Books,Fiction Novel,1,400.98,UPI,Shipped,400.98
+ORD0240,2025-06-20,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Laptop,2,52235.86,Cash on Delivery,Completed,104471.72
+ORD0948,2025-06-20,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Hair Dryer,1,1930.79,Net Banking,Completed,1930.79
+ORD1127,2025-06-20,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Face Wash,1,398.39,Credit Card,Completed,398.39
+ORD1384,2025-06-21,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Business Management,2,545.79,Debit Card,Shipped,1091.58
+ORD0922,2025-06-21,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Cookware Set,4,3658.55,UPI,Completed,14634.2
+ORD0734,2025-06-22,C016,Riya Kapoor,Chandigarh,Chandigarh,Home & Kitchen,Bedsheet,3,1087.12,UPI,Completed,3261.3599999999997
+ORD0078,2025-06-22,C010,Anjali Rao,Kolkata,West Bengal,Beauty,Perfume,4,1479.35,UPI,Completed,5917.4
+ORD1308,2025-06-22,C001,Amit Sharma,Pune,Maharashtra,Electronics,Laptop,2,51968.06,UPI,Completed,103936.12
+ORD0293,2025-06-22,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Smartwatch,1,4731.6,Credit Card,Shipped,4731.6
+ORD0427,2025-06-22,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Python Programming,1,730.06,Credit Card,Completed,730.06
+ORD1316,2025-06-22,C005,Arjun Mehta,Ahmedabad,Gujarat,Home & Kitchen,Cookware Set,1,3749.97,UPI,Completed,3749.97
+ORD0466,2025-06-24,C012,Meera Nair,Kochi,Kerala,Books,SQL for Beginners,2,548.25,Net Banking,Completed,1096.5
+ORD0687,2025-06-24,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Smartwatch,2,4549.65,Net Banking,Completed,9099.3
+ORD0511,2025-06-24,C003,Rahul Verma,Delhi,Delhi,Beauty,Shampoo,4,630.71,Credit Card,Completed,2522.84
+ORD0248,2025-06-24,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Clothing,T-Shirt,2,873.04,Debit Card,Completed,1746.08
+ORD0844,2025-06-25,C001,Amit Sharma,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,1,3656.66,UPI,Completed,3656.66
+ORD0175,2025-06-25,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Table Lamp,2,1359.02,UPI,Completed,2718.04
+ORD1115,2025-06-25,C012,Meera Nair,Kochi,Kerala,Books,Data Analytics,1,831.69,UPI,Shipped,831.69
+ORD1020,2025-06-25,C016,Riya Kapoor,Chandigarh,Chandigarh,Home & Kitchen,Cookware Set,4,4004.91,Credit Card,Completed,16019.64
+ORD1296,2025-06-25,C004,Sneha Joshi,Bengaluru,Karnataka,Beauty,Shampoo,3,629.38,Debit Card,Completed,1888.1399999999999
+ORD0354,2025-06-26,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,1,3703.13,Credit Card,Completed,3703.13
+ORD0182,2025-06-26,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Hair Dryer,2,2091.86,UPI,Completed,4183.72
+ORD1211,2025-06-26,C020,Simran Kaur,Amritsar,Punjab,Beauty,Face Wash,3,402.25,Debit Card,Shipped,1206.75
+ORD1018,2025-06-26,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Kurta,2,1187.11,Credit Card,Completed,2374.22
+ORD0882,2025-06-26,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Electric Kettle,2,1378.93,Cash on Delivery,Shipped,2757.86
+ORD1332,2025-06-27,C004,Sneha Joshi,Bengaluru,Karnataka,Beauty,Shampoo,1,621.22,UPI,Completed,621.22
+ORD0189,2025-06-27,C003,Rahul Verma,Delhi,Delhi,Beauty,Hair Dryer,1,2009.01,Credit Card,Shipped,2009.01
+ORD1443,2025-06-27,C012,Meera Nair,Kochi,Kerala,Electronics,Headphones,2,2571.18,Net Banking,Completed,5142.36
+ORD0296,2025-06-27,C010,Anjali Rao,Kolkata,West Bengal,Books,Fiction Novel,1,397.77,UPI,Completed,397.77
+ORD0246,2025-06-27,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Fiction Novel,4,395.39,UPI,Completed,1581.56
+ORD1046,2025-06-27,C016,Riya Kapoor,Chandigarh,Chandigarh,Home & Kitchen,Table Lamp,2,1202.59,Debit Card,Completed,2405.18
+ORD0431,2025-06-28,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Mixer Grinder,1,3402.62,Net Banking,Completed,3402.62
+ORD0453,2025-06-28,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Shampoo,3,584.3,UPI,Completed,1752.8999999999999
+ORD0129,2025-06-28,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,T-Shirt,3,772.28,UPI,Completed,2316.84
+ORD1482,2025-06-28,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Headphones,2,2427.27,Credit Card,Completed,4854.54
+ORD0018,2025-06-28,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Table Lamp,1,1175.7,UPI,Completed,1175.7
+ORD1193,2025-06-28,C016,Riya Kapoor,Chandigarh,Chandigarh,Clothing,Jeans,1,1659.71,UPI,Completed,1659.71
+ORD0688,2025-06-29,C016,Riya Kapoor,Chandigarh,Chandigarh,Home & Kitchen,Bedsheet,1,1031.53,Credit Card,Completed,1031.53
+ORD0059,2025-06-29,C010,Anjali Rao,Kolkata,West Bengal,Books,SQL for Beginners,2,645.32,UPI,Completed,1290.64
+ORD0043,2025-06-30,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,2,3448.74,Credit Card,Shipped,6897.48
+ORD1277,2025-06-30,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Sneakers,1,3264.22,UPI,Shipped,3264.22
+ORD0317,2025-06-30,C012,Meera Nair,Kochi,Kerala,Clothing,Jacket,1,2549.92,Cash on Delivery,Completed,2549.92
+ORD0735,2025-06-30,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,T-Shirt,1,817.21,Credit Card,Completed,817.21
+ORD0473,2025-06-30,C010,Anjali Rao,Kolkata,West Bengal,Home & Kitchen,Cookware Set,1,3716.64,Credit Card,Shipped,3716.64
+ORD0499,2025-06-30,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Smartwatch,1,5014.66,UPI,Completed,5014.66
+ORD0464,2025-07-01,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Table Lamp,3,1307.04,UPI,Completed,3921.12
+ORD0919,2025-07-01,C014,Kavita Das,Bhubaneswar,Odisha,Books,Data Analytics,2,890.52,Net Banking,Completed,1781.04
+ORD0631,2025-07-01,C020,Simran Kaur,Amritsar,Punjab,Electronics,Laptop,1,54319.96,Cash on Delivery,Completed,54319.96
+ORD0542,2025-07-01,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Shampoo,2,583.24,Net Banking,Completed,1166.48
+ORD0702,2025-07-01,C012,Meera Nair,Kochi,Kerala,Electronics,Headphones,1,2693.71,Debit Card,Completed,2693.71
+ORD1383,2025-07-01,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Face Wash,4,404.05,Cash on Delivery,Completed,1616.2
+ORD0521,2025-07-01,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Smartwatch,1,5140.71,Debit Card,Completed,5140.71
+ORD0895,2025-07-01,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Electric Kettle,2,1622.89,Debit Card,Completed,3245.78
+ORD0301,2025-07-02,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Bluetooth Speaker,2,3687.46,Credit Card,Completed,7374.92
+ORD0861,2025-07-02,C020,Simran Kaur,Amritsar,Punjab,Beauty,Hair Dryer,1,2174.4,Debit Card,Completed,2174.4
+ORD0593,2025-07-02,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Data Analytics,1,976.16,Debit Card,Completed,976.16
+ORD0318,2025-07-02,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,1,3385.82,UPI,Completed,3385.82
+ORD0852,2025-07-03,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Electric Kettle,1,1478.27,UPI,Completed,1478.27
+ORD0101,2025-07-03,C011,Karan Shah,Surat,Gujarat,Books,SQL for Beginners,2,560.89,Credit Card,Completed,1121.78
+ORD0824,2025-07-03,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Table Lamp,2,1416.96,Net Banking,Completed,2833.92
+ORD0428,2025-07-03,C011,Karan Shah,Surat,Gujarat,Clothing,Jeans,2,1457.57,UPI,Completed,2915.14
+ORD1098,2025-07-05,C001,Amit Sharma,Pune,Maharashtra,Beauty,Shampoo,2,606.42,Debit Card,Completed,1212.84
+ORD1050,2025-07-05,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Data Analytics,1,874.1,Credit Card,Completed,874.1
+ORD1022,2025-07-05,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Clothing,Kurta,1,1289.63,Cash on Delivery,Completed,1289.63
+ORD1294,2025-07-05,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Laptop,1,51517.46,UPI,Completed,51517.46
+ORD0195,2025-07-05,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Cookware Set,3,4072.91,Credit Card,Completed,12218.73
+ORD1164,2025-07-06,C010,Anjali Rao,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,1,3200.0,Net Banking,Completed,3200.0
+ORD0069,2025-07-06,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Hair Dryer,1,1927.06,UPI,Completed,1927.06
+ORD0831,2025-07-06,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Kurta,1,1172.84,Net Banking,Completed,1172.84
+ORD0620,2025-07-06,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Jeans,1,1676.26,UPI,Completed,1676.26
+ORD0741,2025-07-06,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Face Wash,1,371.19,UPI,Completed,371.19
+ORD0819,2025-07-07,C001,Amit Sharma,Pune,Maharashtra,Clothing,Kurta,1,1363.79,Cash on Delivery,Completed,1363.79
+ORD1171,2025-07-07,C001,Amit Sharma,Pune,Maharashtra,Electronics,Smartphone,3,27854.97,UPI,Shipped,83564.91
+ORD0012,2025-07-07,C015,Manish Jain,Indore,Madhya Pradesh,Books,Python Programming,1,764.04,Credit Card,Completed,764.04
+ORD1016,2025-07-07,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Moisturizer,1,734.03,Debit Card,Completed,734.03
+ORD1052,2025-07-08,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Moisturizer,1,675.7,Debit Card,Shipped,675.7
+ORD0893,2025-07-08,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Cookware Set,4,4360.59,Cash on Delivery,Completed,17442.36
+ORD0434,2025-07-08,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Headphones,1,2264.49,Cash on Delivery,Completed,2264.49
+ORD0498,2025-07-08,C015,Manish Jain,Indore,Madhya Pradesh,Books,Business Management,1,532.52,Debit Card,Completed,532.52
+ORD0739,2025-07-08,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Laptop,4,56047.53,Credit Card,Completed,224190.12
+ORD1469,2025-07-08,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Sneakers,2,2948.75,Credit Card,Completed,5897.5
+ORD0627,2025-07-08,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Bluetooth Speaker,1,3689.71,UPI,Completed,3689.71
+ORD1349,2025-07-08,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Smartphone,1,25460.03,UPI,Completed,25460.03
+ORD0324,2025-07-08,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Cookware Set,3,4032.78,Debit Card,Completed,12098.34
+ORD1386,2025-07-09,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Jeans,3,1517.15,Net Banking,Completed,4551.450000000001
+ORD0747,2025-07-09,C012,Meera Nair,Kochi,Kerala,Books,Data Analytics,2,859.5,UPI,Completed,1719.0
+ORD1094,2025-07-09,C020,Simran Kaur,Amritsar,Punjab,Beauty,Moisturizer,1,670.17,UPI,Completed,670.17
+ORD0304,2025-07-10,C004,Sneha Joshi,Bengaluru,Karnataka,Beauty,Shampoo,1,570.95,Credit Card,Completed,570.95
+ORD0439,2025-07-10,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Laptop,2,57200.38,UPI,Completed,114400.76
+ORD1086,2025-07-10,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Face Wash,1,360.54,UPI,Completed,360.54
+ORD0096,2025-07-11,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Smartphone,1,26392.6,UPI,Completed,26392.6
+ORD1119,2025-07-11,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Face Wash,3,380.56,UPI,Completed,1141.68
+ORD0003,2025-07-11,C002,Priya Patel,Mumbai,Maharashtra,Books,Business Management,2,542.77,Cash on Delivery,Completed,1085.54
+ORD1170,2025-07-11,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,SQL for Beginners,2,543.31,UPI,Completed,1086.62
+ORD0400,2025-07-11,C007,Rohit Kumar,Hyderabad,Telangana,Books,Data Analytics,1,814.43,Debit Card,Shipped,814.43
+ORD1104,2025-07-11,C011,Karan Shah,Surat,Gujarat,Books,Business Management,1,475.87,UPI,Completed,475.87
+ORD0811,2025-07-11,C002,Priya Patel,Mumbai,Maharashtra,Beauty,Moisturizer,3,693.77,Credit Card,Completed,2081.31
+ORD0066,2025-07-11,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Kurta,2,1364.11,Credit Card,Completed,2728.22
+ORD1423,2025-07-11,C011,Karan Shah,Surat,Gujarat,Books,Python Programming,1,750.49,UPI,Completed,750.49
+ORD0652,2025-07-11,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Jacket,4,2376.02,UPI,Completed,9504.08
+ORD0204,2025-07-12,C012,Meera Nair,Kochi,Kerala,Books,SQL for Beginners,1,608.84,UPI,Completed,608.84
+ORD0965,2025-07-12,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,4,3601.39,Credit Card,Completed,14405.56
+ORD1138,2025-07-12,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Sneakers,1,3116.78,Credit Card,Completed,3116.78
+ORD0164,2025-07-12,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Smartphone,2,30568.31,UPI,Completed,61136.62
+ORD0492,2025-07-12,C010,Anjali Rao,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,1,3176.34,UPI,Completed,3176.34
+ORD1368,2025-07-13,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Jacket,1,2496.83,Credit Card,Completed,2496.83
+ORD1284,2025-07-14,C010,Anjali Rao,Kolkata,West Bengal,Home & Kitchen,Cookware Set,1,3809.47,UPI,Completed,3809.47
+ORD0559,2025-07-14,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Laptop,3,59086.15,Debit Card,Completed,177258.45
+ORD1338,2025-07-14,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Smartwatch,1,5054.51,UPI,Completed,5054.51
+ORD0412,2025-07-14,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Electric Kettle,1,1464.3,Net Banking,Shipped,1464.3
+ORD1003,2025-07-15,C020,Simran Kaur,Amritsar,Punjab,Beauty,Face Wash,1,423.38,Credit Card,Completed,423.38
+ORD1392,2025-07-15,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Smartphone,1,28713.42,UPI,Completed,28713.42
+ORD0909,2025-07-15,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Electric Kettle,4,1358.22,Net Banking,Completed,5432.88
+ORD1053,2025-07-15,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Headphones,2,2512.88,Cash on Delivery,Completed,5025.76
+ORD0414,2025-07-15,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Smartphone,2,27610.96,UPI,Completed,55221.92
+ORD0764,2025-07-16,C016,Riya Kapoor,Chandigarh,Chandigarh,Clothing,Jeans,3,1595.93,UPI,Completed,4787.79
+ORD0721,2025-07-16,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Laptop,1,57623.56,Credit Card,Completed,57623.56
+ORD1434,2025-07-16,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Cookware Set,3,3865.39,UPI,Completed,11596.17
+ORD1465,2025-07-16,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Mixer Grinder,1,3253.97,Credit Card,Completed,3253.97
+ORD0520,2025-07-16,C001,Amit Sharma,Pune,Maharashtra,Beauty,Moisturizer,1,724.93,UPI,Completed,724.93
+ORD1185,2025-07-16,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Python Programming,2,673.34,UPI,Completed,1346.68
+ORD0087,2025-07-16,C003,Rahul Verma,Delhi,Delhi,Clothing,T-Shirt,1,785.68,Debit Card,Completed,785.68
+ORD1155,2025-07-17,C002,Priya Patel,Mumbai,Maharashtra,Clothing,T-Shirt,4,846.0,Net Banking,Completed,3384.0
+ORD0341,2025-07-17,C011,Karan Shah,Surat,Gujarat,Beauty,Shampoo,3,638.74,Credit Card,Completed,1916.22
+ORD0027,2025-07-17,C002,Priya Patel,Mumbai,Maharashtra,Books,Python Programming,2,691.7,UPI,Completed,1383.4
+ORD0339,2025-07-17,C020,Simran Kaur,Amritsar,Punjab,Beauty,Face Wash,4,368.54,Cash on Delivery,Completed,1474.16
+ORD0843,2025-07-18,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Smartphone,4,25815.23,Credit Card,Completed,103260.92
+ORD1311,2025-07-18,C001,Amit Sharma,Pune,Maharashtra,Beauty,Moisturizer,1,718.64,UPI,Completed,718.64
+ORD0700,2025-07-18,C001,Amit Sharma,Pune,Maharashtra,Home & Kitchen,Table Lamp,2,1371.98,UPI,Completed,2743.96
+ORD0905,2025-07-18,C004,Sneha Joshi,Bengaluru,Karnataka,Beauty,Shampoo,1,588.31,UPI,Shipped,588.31
+ORD1213,2025-07-18,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Laptop,2,56765.17,UPI,Completed,113530.34
+ORD0724,2025-07-19,C013,Suresh Patil,Nagpur,Maharashtra,Books,SQL for Beginners,1,562.61,Cash on Delivery,Completed,562.61
+ORD1201,2025-07-19,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Fiction Novel,4,413.41,UPI,Completed,1653.64
+ORD1090,2025-07-19,C001,Amit Sharma,Pune,Maharashtra,Clothing,Kurta,1,1418.93,UPI,Completed,1418.93
+ORD0952,2025-07-19,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Kurta,2,1303.87,UPI,Completed,2607.74
+ORD0934,2025-07-19,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Sneakers,1,3129.86,Cash on Delivery,Shipped,3129.86
+ORD1336,2025-07-19,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Cookware Set,2,3856.84,Credit Card,Completed,7713.68
+ORD0669,2025-07-20,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Business Management,4,522.1,UPI,Completed,2088.4
+ORD0389,2025-07-20,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Hair Dryer,2,2038.57,Cash on Delivery,Completed,4077.14
+ORD1275,2025-07-20,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Smartphone,1,26996.11,UPI,Completed,26996.11
+ORD0706,2025-07-20,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Electric Kettle,1,1488.61,Debit Card,Completed,1488.61
+ORD1267,2025-07-21,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Smartphone,4,25366.52,Net Banking,Completed,101466.08
+ORD0505,2025-07-21,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Shampoo,1,588.75,UPI,Completed,588.75
+ORD1427,2025-07-21,C003,Rahul Verma,Delhi,Delhi,Electronics,Laptop,1,50720.12,Debit Card,Completed,50720.12
+ORD0332,2025-07-21,C006,Neha Singh,Jaipur,Rajasthan,Books,Python Programming,3,726.35,Debit Card,Completed,2179.05
+ORD0523,2025-07-21,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Fiction Novel,1,395.02,UPI,Shipped,395.02
+ORD0630,2025-07-21,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Hair Dryer,4,2163.16,Net Banking,Completed,8652.64
+ORD0385,2025-07-22,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Laptop,2,52813.92,UPI,Completed,105627.84
+ORD0766,2025-07-22,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Cookware Set,1,4101.17,Net Banking,Completed,4101.17
+ORD0322,2025-07-22,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Jeans,4,1648.94,UPI,Completed,6595.76
+ORD1152,2025-07-23,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Laptop,2,60199.58,UPI,Completed,120399.16
+ORD1441,2025-07-23,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Moisturizer,1,747.55,Cash on Delivery,Completed,747.55
+ORD0416,2025-07-23,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Jacket,1,2669.79,Credit Card,Completed,2669.79
+ORD1088,2025-07-23,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Moisturizer,1,755.34,Cash on Delivery,Completed,755.34
+ORD0927,2025-07-23,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,T-Shirt,1,855.46,Net Banking,Completed,855.46
+ORD0241,2025-07-23,C020,Simran Kaur,Amritsar,Punjab,Books,Fiction Novel,1,417.86,Credit Card,Completed,417.86
+ORD1373,2025-07-24,C011,Karan Shah,Surat,Gujarat,Beauty,Shampoo,2,606.69,Net Banking,Completed,1213.38
+ORD0470,2025-07-24,C003,Rahul Verma,Delhi,Delhi,Clothing,Sneakers,2,2847.01,Debit Card,Completed,5694.02
+ORD1043,2025-07-24,C012,Meera Nair,Kochi,Kerala,Electronics,Bluetooth Speaker,1,3587.76,UPI,Completed,3587.76
+ORD0679,2025-07-25,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Cookware Set,4,4204.77,Debit Card,Completed,16819.08
+ORD0832,2025-07-25,C007,Rohit Kumar,Hyderabad,Telangana,Home & Kitchen,Electric Kettle,4,1612.45,Credit Card,Completed,6449.8
+ORD0622,2025-07-25,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Data Analytics,3,834.81,UPI,Shipped,2504.43
+ORD0911,2025-07-25,C005,Arjun Mehta,Ahmedabad,Gujarat,Home & Kitchen,Cookware Set,1,3842.96,UPI,Completed,3842.96
+ORD1261,2025-07-25,C014,Kavita Das,Bhubaneswar,Odisha,Books,Fiction Novel,4,436.36,Cash on Delivery,Completed,1745.44
+ORD1287,2025-07-25,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Face Wash,3,406.13,UPI,Completed,1218.3899999999999
+ORD1365,2025-07-25,C003,Rahul Verma,Delhi,Delhi,Electronics,Bluetooth Speaker,3,3633.27,Credit Card,Completed,10899.81
+ORD0902,2025-07-26,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Sneakers,4,2965.76,UPI,Shipped,11863.04
+ORD0578,2025-07-26,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Electric Kettle,1,1501.12,Credit Card,Completed,1501.12
+ORD1113,2025-07-27,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Moisturizer,2,763.34,Net Banking,Completed,1526.68
+ORD0837,2025-07-27,C001,Amit Sharma,Pune,Maharashtra,Beauty,Face Wash,4,408.6,Net Banking,Completed,1634.4
+ORD1178,2025-07-27,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Smartwatch,2,5368.95,UPI,Completed,10737.9
+ORD0621,2025-07-27,C003,Rahul Verma,Delhi,Delhi,Electronics,Headphones,2,2452.3,UPI,Shipped,4904.6
+ORD0658,2025-07-27,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Shampoo,3,596.29,UPI,Completed,1788.87
+ORD0525,2025-07-27,C003,Rahul Verma,Delhi,Delhi,Clothing,Kurta,1,1294.59,Debit Card,Completed,1294.59
+ORD0681,2025-07-28,C011,Karan Shah,Surat,Gujarat,Books,Python Programming,2,761.67,UPI,Completed,1523.34
+ORD0598,2025-07-28,C012,Meera Nair,Kochi,Kerala,Books,SQL for Beginners,3,608.55,Net Banking,Completed,1825.6499999999999
+ORD0216,2025-07-28,C002,Priya Patel,Mumbai,Maharashtra,Books,Business Management,1,547.34,UPI,Completed,547.34
+ORD0805,2025-07-28,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,1,3364.55,Credit Card,Completed,3364.55
+ORD0541,2025-07-28,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Jacket,1,2634.32,Cash on Delivery,Completed,2634.32
+ORD1328,2025-07-29,C001,Amit Sharma,Pune,Maharashtra,Books,Fiction Novel,3,411.02,Cash on Delivery,Completed,1233.06
+ORD1425,2025-07-29,C010,Anjali Rao,Kolkata,West Bengal,Clothing,T-Shirt,1,830.19,UPI,Completed,830.19
+ORD1439,2025-07-30,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Sneakers,2,3144.27,UPI,Completed,6288.54
+ORD0228,2025-07-30,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Electric Kettle,1,1355.35,UPI,Shipped,1355.35
+ORD1255,2025-07-30,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Bluetooth Speaker,4,3456.04,UPI,Completed,13824.16
+ORD1015,2025-07-30,C005,Arjun Mehta,Ahmedabad,Gujarat,Home & Kitchen,Mixer Grinder,4,3162.47,UPI,Completed,12649.88
+ORD0335,2025-07-30,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Perfume,1,1539.92,UPI,Completed,1539.92
+ORD0574,2025-07-30,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Hair Dryer,1,1804.95,Debit Card,Completed,1804.95
+ORD0725,2025-07-30,C011,Karan Shah,Surat,Gujarat,Home & Kitchen,Cookware Set,2,4216.16,Net Banking,Shipped,8432.32
+ORD0312,2025-07-30,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Bedsheet,2,968.97,Debit Card,Completed,1937.94
+ORD0536,2025-07-31,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Mixer Grinder,1,3618.44,UPI,Completed,3618.44
+ORD1122,2025-07-31,C007,Rohit Kumar,Hyderabad,Telangana,Books,SQL for Beginners,1,625.5,UPI,Completed,625.5
+ORD0319,2025-08-01,C014,Kavita Das,Bhubaneswar,Odisha,Books,Fiction Novel,1,434.36,Debit Card,Completed,434.36
+ORD0915,2025-08-01,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Jeans,3,1498.04,UPI,Completed,4494.12
+ORD1297,2025-08-01,C004,Sneha Joshi,Bengaluru,Karnataka,Books,Python Programming,2,645.36,Net Banking,Completed,1290.72
+ORD0303,2025-08-01,C013,Suresh Patil,Nagpur,Maharashtra,Books,Python Programming,1,662.82,UPI,Completed,662.82
+ORD0081,2025-08-01,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Table Lamp,2,1180.38,Cash on Delivery,Completed,2360.76
+ORD0675,2025-08-02,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Smartwatch,1,5227.33,Net Banking,Completed,5227.33
+ORD1072,2025-08-02,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Mixer Grinder,4,3507.35,UPI,Completed,14029.4
+ORD0506,2025-08-02,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Shampoo,1,614.39,UPI,Completed,614.39
+ORD0106,2025-08-02,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Table Lamp,4,1265.35,UPI,Completed,5061.4
+ORD0394,2025-08-02,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Laptop,4,53976.69,UPI,Completed,215906.76
+ORD0771,2025-08-02,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Cookware Set,3,3607.96,Net Banking,Shipped,10823.880000000001
+ORD0158,2025-08-03,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Kurta,3,1295.73,Net Banking,Completed,3887.19
+ORD0172,2025-08-03,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Jacket,4,2652.22,Debit Card,Completed,10608.88
+ORD0575,2025-08-03,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Sneakers,4,3233.17,Debit Card,Completed,12932.68
+ORD1233,2025-08-03,C001,Amit Sharma,Pune,Maharashtra,Beauty,Shampoo,1,627.55,UPI,Completed,627.55
+ORD0196,2025-08-04,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Cookware Set,2,4186.08,Net Banking,Completed,8372.16
+ORD1044,2025-08-04,C020,Simran Kaur,Amritsar,Punjab,Electronics,Bluetooth Speaker,3,3755.44,Credit Card,Completed,11266.32
+ORD0245,2025-08-04,C012,Meera Nair,Kochi,Kerala,Clothing,Kurta,2,1425.43,Debit Card,Completed,2850.86
+ORD1270,2025-08-04,C015,Manish Jain,Indore,Madhya Pradesh,Books,Business Management,1,483.13,UPI,Completed,483.13
+ORD0767,2025-08-04,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Bedsheet,3,1045.0,UPI,Completed,3135.0
+ORD0949,2025-08-04,C011,Karan Shah,Surat,Gujarat,Books,Data Analytics,1,861.95,Cash on Delivery,Completed,861.95
+ORD1426,2025-08-04,C016,Riya Kapoor,Chandigarh,Chandigarh,Clothing,Jacket,2,2393.83,Credit Card,Completed,4787.66
+ORD0874,2025-08-04,C012,Meera Nair,Kochi,Kerala,Beauty,Moisturizer,3,759.51,UPI,Completed,2278.5299999999997
+ORD0068,2025-08-05,C012,Meera Nair,Kochi,Kerala,Beauty,Shampoo,4,629.05,UPI,Completed,2516.2
+ORD0937,2025-08-05,C006,Neha Singh,Jaipur,Rajasthan,Books,Data Analytics,2,956.85,UPI,Completed,1913.7
+ORD0347,2025-08-05,C010,Anjali Rao,Kolkata,West Bengal,Beauty,Face Wash,3,393.33,Net Banking,Completed,1179.99
+ORD0969,2025-08-06,C017,Aditya Mishra,Noida,Uttar Pradesh,Electronics,Headphones,1,2579.87,Debit Card,Completed,2579.87
+ORD1451,2025-08-06,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Cookware Set,1,3620.44,Cash on Delivery,Completed,3620.44
+ORD1241,2025-08-06,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Jacket,2,2641.08,Credit Card,Completed,5282.16
+ORD1101,2025-08-06,C011,Karan Shah,Surat,Gujarat,Books,SQL for Beginners,2,600.04,UPI,Completed,1200.08
+ORD0858,2025-08-06,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Electric Kettle,3,1438.94,Credit Card,Completed,4316.82
+ORD0918,2025-08-07,C010,Anjali Rao,Kolkata,West Bengal,Clothing,T-Shirt,1,861.95,Debit Card,Shipped,861.95
+ORD0836,2025-08-07,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Smartwatch,2,5351.86,Cash on Delivery,Completed,10703.72
+ORD0944,2025-08-07,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Hair Dryer,3,2103.08,Credit Card,Completed,6309.24
+ORD0524,2025-08-07,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Sneakers,2,2812.95,Credit Card,Completed,5625.9
+ORD1491,2025-08-08,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,2,3462.72,UPI,Completed,6925.44
+ORD0932,2025-08-08,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Face Wash,3,365.45,Net Banking,Completed,1096.35
+ORD0086,2025-08-08,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Sneakers,1,2945.74,UPI,Completed,2945.74
+ORD0655,2025-08-08,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Jacket,4,2529.62,Cash on Delivery,Completed,10118.48
+ORD0258,2025-08-09,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Smartphone,3,30319.72,UPI,Completed,90959.16
+ORD1487,2025-08-09,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Table Lamp,3,1388.82,UPI,Shipped,4166.46
+ORD0671,2025-08-09,C010,Anjali Rao,Kolkata,West Bengal,Clothing,T-Shirt,1,725.98,UPI,Completed,725.98
+ORD1456,2025-08-09,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Jeans,3,1459.2,Credit Card,Completed,4377.6
+ORD1054,2025-08-10,C011,Karan Shah,Surat,Gujarat,Beauty,Face Wash,1,372.71,UPI,Completed,372.71
+ORD1435,2025-08-10,C003,Rahul Verma,Delhi,Delhi,Electronics,Headphones,2,2644.37,UPI,Completed,5288.74
+ORD0580,2025-08-10,C006,Neha Singh,Jaipur,Rajasthan,Books,Fiction Novel,4,409.91,UPI,Completed,1639.64
+ORD1262,2025-08-10,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Business Management,1,531.48,Debit Card,Completed,531.48
+ORD0863,2025-08-10,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Electric Kettle,2,1593.66,UPI,Completed,3187.32
+ORD1472,2025-08-11,C001,Amit Sharma,Pune,Maharashtra,Beauty,Face Wash,2,435.88,Net Banking,Completed,871.76
+ORD0613,2025-08-11,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Data Analytics,1,888.53,UPI,Completed,888.53
+ORD1348,2025-08-11,C014,Kavita Das,Bhubaneswar,Odisha,Books,Business Management,2,465.46,UPI,Completed,930.92
+ORD1369,2025-08-11,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Clothing,Sneakers,1,2817.07,UPI,Completed,2817.07
+ORD0368,2025-08-11,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Smartphone,2,30783.64,Debit Card,Completed,61567.28
+ORD0223,2025-08-11,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Sneakers,3,3068.94,Credit Card,Completed,9206.82
+ORD0026,2025-08-12,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Smartphone,2,25488.28,Cash on Delivery,Completed,50976.56
+ORD0200,2025-08-12,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Cookware Set,2,3806.0,UPI,Completed,7612.0
+ORD0801,2025-08-12,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Jacket,1,2721.79,Net Banking,Completed,2721.79
+ORD1176,2025-08-13,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Sneakers,2,2737.0,UPI,Completed,5474.0
+ORD0773,2025-08-13,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,1,3551.9,Debit Card,Completed,3551.9
+ORD0958,2025-08-13,C010,Anjali Rao,Kolkata,West Bengal,Beauty,Face Wash,2,422.54,UPI,Completed,845.08
+ORD0537,2025-08-13,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Hair Dryer,4,1810.9,UPI,Completed,7243.6
+ORD1208,2025-08-13,C010,Anjali Rao,Kolkata,West Bengal,Books,SQL for Beginners,2,636.37,Credit Card,Completed,1272.74
+ORD0433,2025-08-13,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Hair Dryer,2,1974.67,Net Banking,Completed,3949.34
+ORD0207,2025-08-14,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Mixer Grinder,1,3149.82,Cash on Delivery,Completed,3149.82
+ORD0270,2025-08-14,C005,Arjun Mehta,Ahmedabad,Gujarat,Home & Kitchen,Table Lamp,1,1360.54,Credit Card,Completed,1360.54
+ORD0476,2025-08-14,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Mixer Grinder,3,3439.97,UPI,Completed,10319.91
+ORD0840,2025-08-14,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Jeans,1,1486.59,Debit Card,Completed,1486.59
+ORD0187,2025-08-14,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Cookware Set,3,3783.59,UPI,Completed,11350.77
+ORD0180,2025-08-15,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Cookware Set,1,4350.17,UPI,Completed,4350.17
+ORD1281,2025-08-16,C003,Rahul Verma,Delhi,Delhi,Electronics,Smartwatch,2,4667.51,Debit Card,Completed,9335.02
+ORD1355,2025-08-16,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Kurta,1,1333.42,Net Banking,Completed,1333.42
+ORD1411,2025-08-16,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Jeans,1,1502.59,Debit Card,Completed,1502.59
+ORD1202,2025-08-16,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Electric Kettle,4,1455.91,Net Banking,Completed,5823.64
+ORD1315,2025-08-16,C003,Rahul Verma,Delhi,Delhi,Books,Data Analytics,1,912.07,Net Banking,Completed,912.07
+ORD0259,2025-08-16,C002,Priya Patel,Mumbai,Maharashtra,Beauty,Face Wash,2,378.74,Debit Card,Completed,757.48
+ORD0215,2025-08-16,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Shampoo,3,621.23,Credit Card,Completed,1863.69
+ORD0113,2025-08-17,C002,Priya Patel,Mumbai,Maharashtra,Books,Business Management,1,547.55,Cash on Delivery,Completed,547.55
+ORD1197,2025-08-18,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Jacket,1,2466.35,UPI,Completed,2466.35
+ORD0727,2025-08-18,C011,Karan Shah,Surat,Gujarat,Beauty,Perfume,3,1424.74,Debit Card,Completed,4274.22
+ORD0283,2025-08-19,C020,Simran Kaur,Amritsar,Punjab,Clothing,T-Shirt,3,733.34,Net Banking,Completed,2200.02
+ORD0019,2025-08-19,C020,Simran Kaur,Amritsar,Punjab,Electronics,Smartwatch,3,4638.4,Credit Card,Completed,13915.199999999999
+ORD0606,2025-08-19,C015,Manish Jain,Indore,Madhya Pradesh,Books,Python Programming,3,646.99,Credit Card,Completed,1940.97
+ORD1001,2025-08-19,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Moisturizer,1,642.46,UPI,Completed,642.46
+ORD0130,2025-08-19,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Table Lamp,2,1297.81,Credit Card,Shipped,2595.62
+ORD1360,2025-08-19,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Electric Kettle,1,1355.37,UPI,Completed,1355.37
+ORD1105,2025-08-20,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Kurta,3,1420.7,Cash on Delivery,Shipped,4262.1
+ORD1125,2025-08-20,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Smartphone,2,28095.94,Credit Card,Completed,56191.88
+ORD1486,2025-08-20,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,T-Shirt,3,856.42,UPI,Completed,2569.2599999999998
+ORD0220,2025-08-21,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Laptop,1,55376.66,UPI,Completed,55376.66
+ORD1024,2025-08-21,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Moisturizer,1,716.19,UPI,Completed,716.19
+ORD0418,2025-08-22,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,3,1084.04,UPI,Completed,3252.12
+ORD1077,2025-08-22,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Clothing,Jeans,4,1725.0,UPI,Shipped,6900.0
+ORD0442,2025-08-22,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Smartphone,1,28003.5,UPI,Completed,28003.5
+ORD1309,2025-08-22,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Hair Dryer,1,1894.74,Net Banking,Completed,1894.74
+ORD1019,2025-08-23,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Laptop,1,54428.94,Debit Card,Completed,54428.94
+ORD1340,2025-08-23,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Headphones,2,2540.18,Credit Card,Completed,5080.36
+ORD1289,2025-08-23,C012,Meera Nair,Kochi,Kerala,Books,Data Analytics,3,881.83,UPI,Completed,2645.4900000000002
+ORD0181,2025-08-24,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Python Programming,2,716.83,Cash on Delivery,Completed,1433.66
+ORD0782,2025-08-24,C010,Anjali Rao,Kolkata,West Bengal,Beauty,Perfume,1,1429.69,Net Banking,Completed,1429.69
+ORD1175,2025-08-24,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Data Analytics,4,840.42,Credit Card,Completed,3361.68
+ORD1234,2025-08-25,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Smartphone,2,25384.51,Debit Card,Completed,50769.02
+ORD0892,2025-08-25,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Data Analytics,2,890.06,UPI,Shipped,1780.12
+ORD1058,2025-08-25,C001,Amit Sharma,Pune,Maharashtra,Electronics,Bluetooth Speaker,3,3790.87,Net Banking,Completed,11372.61
+ORD1091,2025-08-25,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,T-Shirt,2,805.58,Credit Card,Completed,1611.16
+ORD0159,2025-08-25,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Shampoo,3,627.95,Credit Card,Completed,1883.8500000000001
+ORD0396,2025-08-25,C017,Aditya Mishra,Noida,Uttar Pradesh,Electronics,Headphones,3,2554.37,Credit Card,Completed,7663.11
+ORD0862,2025-08-26,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,1,967.36,UPI,Completed,967.36
+ORD0227,2025-08-26,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Perfume,1,1447.74,UPI,Completed,1447.74
+ORD0057,2025-08-26,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Bluetooth Speaker,4,3177.6,Cash on Delivery,Completed,12710.4
+ORD0640,2025-08-26,C014,Kavita Das,Bhubaneswar,Odisha,Beauty,Perfume,1,1432.48,UPI,Completed,1432.48
+ORD0868,2025-08-26,C010,Anjali Rao,Kolkata,West Bengal,Home & Kitchen,Electric Kettle,3,1507.27,Credit Card,Completed,4521.8099999999995
+ORD0568,2025-08-27,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Smartphone,3,27883.86,Credit Card,Shipped,83651.58
+ORD1146,2025-08-27,C013,Suresh Patil,Nagpur,Maharashtra,Books,Fiction Novel,3,383.17,Debit Card,Completed,1149.51
+ORD0664,2025-08-27,C012,Meera Nair,Kochi,Kerala,Books,Data Analytics,4,919.28,Debit Card,Completed,3677.12
+ORD0108,2025-08-27,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Table Lamp,4,1302.03,UPI,Completed,5208.12
+ORD0605,2025-08-27,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Hair Dryer,2,2157.87,Debit Card,Completed,4315.74
+ORD1112,2025-08-28,C010,Anjali Rao,Kolkata,West Bengal,Home & Kitchen,Electric Kettle,3,1498.46,Credit Card,Shipped,4495.38
+ORD0273,2025-08-29,C003,Rahul Verma,Delhi,Delhi,Clothing,Kurta,3,1284.92,UPI,Completed,3854.76
+ORD0475,2025-08-29,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Sneakers,3,2736.41,Cash on Delivery,Completed,8209.23
+ORD0779,2025-08-29,C003,Rahul Verma,Delhi,Delhi,Electronics,Laptop,1,56382.5,UPI,Completed,56382.5
+ORD0203,2025-08-30,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,SQL for Beginners,2,559.92,Cash on Delivery,Completed,1119.84
+ORD1093,2025-08-30,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Smartphone,1,25999.6,Cash on Delivery,Completed,25999.6
+ORD0546,2025-08-30,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Laptop,4,57342.56,Credit Card,Shipped,229370.24
+ORD1310,2025-08-30,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Kurta,1,1418.28,UPI,Completed,1418.28
+ORD0233,2025-08-31,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Smartwatch,3,5153.98,Credit Card,Shipped,15461.939999999999
+ORD0722,2025-08-31,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Hair Dryer,1,2120.58,Credit Card,Completed,2120.58
+ORD0957,2025-08-31,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Clothing,T-Shirt,3,732.12,UPI,Completed,2196.36
+ORD0134,2025-08-31,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Smartphone,1,28790.43,Credit Card,Completed,28790.43
+ORD0638,2025-09-01,C002,Priya Patel,Mumbai,Maharashtra,Clothing,T-Shirt,4,814.92,Debit Card,Completed,3259.68
+ORD1477,2025-09-02,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Electric Kettle,2,1592.03,Cash on Delivery,Completed,3184.06
+ORD1479,2025-09-03,C012,Meera Nair,Kochi,Kerala,Beauty,Perfume,4,1531.6,UPI,Completed,6126.4
+ORD0594,2025-09-03,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Perfume,2,1643.24,Net Banking,Completed,3286.48
+ORD0560,2025-09-03,C001,Amit Sharma,Pune,Maharashtra,Beauty,Moisturizer,1,686.69,Credit Card,Completed,686.69
+ORD0881,2025-09-03,C020,Simran Kaur,Amritsar,Punjab,Electronics,Headphones,1,2537.79,Debit Card,Completed,2537.79
+ORD0483,2025-09-04,C011,Karan Shah,Surat,Gujarat,Home & Kitchen,Mixer Grinder,2,3815.94,UPI,Completed,7631.88
+ORD1298,2025-09-04,C006,Neha Singh,Jaipur,Rajasthan,Books,Business Management,1,536.06,Debit Card,Completed,536.06
+ORD0488,2025-09-04,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Smartwatch,1,4652.88,Cash on Delivery,Shipped,4652.88
+ORD1278,2025-09-04,C016,Riya Kapoor,Chandigarh,Chandigarh,Clothing,Jeans,2,1524.97,Cash on Delivery,Completed,3049.94
+ORD0360,2025-09-05,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Shampoo,4,605.29,Credit Card,Shipped,2421.16
+ORD1036,2025-09-05,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Electric Kettle,4,1586.33,Credit Card,Shipped,6345.32
+ORD0663,2025-09-06,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Moisturizer,1,675.53,Debit Card,Completed,675.53
+ORD0285,2025-09-06,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Smartphone,1,25690.8,Credit Card,Completed,25690.8
+ORD0657,2025-09-06,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,4,3551.09,Credit Card,Completed,14204.36
+ORD0912,2025-09-06,C020,Simran Kaur,Amritsar,Punjab,Beauty,Perfume,2,1409.48,UPI,Completed,2818.96
+ORD0500,2025-09-06,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Python Programming,3,703.48,UPI,Completed,2110.44
+ORD1401,2025-09-06,C003,Rahul Verma,Delhi,Delhi,Electronics,Laptop,2,51025.18,UPI,Completed,102050.36
+ORD0348,2025-09-07,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Smartwatch,1,4561.74,Credit Card,Completed,4561.74
+ORD0573,2025-09-07,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Fiction Novel,2,420.27,Credit Card,Completed,840.54
+ORD1431,2025-09-08,C001,Amit Sharma,Pune,Maharashtra,Electronics,Headphones,1,2428.8,Net Banking,Completed,2428.8
+ORD0379,2025-09-08,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Moisturizer,1,755.93,UPI,Completed,755.93
+ORD0030,2025-09-09,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Face Wash,2,427.6,Debit Card,Completed,855.2
+ORD0486,2025-09-09,C010,Anjali Rao,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,2,3304.51,UPI,Completed,6609.02
+ORD0873,2025-09-10,C020,Simran Kaur,Amritsar,Punjab,Beauty,Face Wash,2,365.88,Debit Card,Completed,731.76
+ORD0063,2025-09-10,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Electric Kettle,4,1462.2,UPI,Completed,5848.8
+ORD1172,2025-09-10,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,2,3645.12,UPI,Shipped,7290.24
+ORD1248,2025-09-10,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Bedsheet,2,954.23,Credit Card,Completed,1908.46
+ORD1432,2025-09-10,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Table Lamp,2,1305.95,Credit Card,Completed,2611.9
+ORD0131,2025-09-11,C001,Amit Sharma,Pune,Maharashtra,Electronics,Bluetooth Speaker,1,3669.71,UPI,Completed,3669.71
+ORD0970,2025-09-11,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Electric Kettle,1,1443.74,Debit Card,Completed,1443.74
+ORD0334,2025-09-11,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Face Wash,1,403.91,Credit Card,Completed,403.91
+ORD1236,2025-09-11,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Electric Kettle,1,1526.73,Net Banking,Completed,1526.73
+ORD0316,2025-09-12,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Fiction Novel,1,397.26,Cash on Delivery,Completed,397.26
+ORD0151,2025-09-12,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Laptop,1,51941.69,UPI,Completed,51941.69
+ORD0623,2025-09-12,C012,Meera Nair,Kochi,Kerala,Beauty,Shampoo,1,640.35,UPI,Shipped,640.35
+ORD1468,2025-09-12,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Cookware Set,1,3866.09,Debit Card,Completed,3866.09
+ORD0017,2025-09-12,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Headphones,1,2609.82,UPI,Completed,2609.82
+ORD0788,2025-09-13,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Jacket,1,2273.7,Net Banking,Completed,2273.7
+ORD0493,2025-09-13,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Sneakers,2,2957.84,Credit Card,Completed,5915.68
+ORD0457,2025-09-13,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Headphones,4,2304.57,UPI,Completed,9218.28
+ORD0586,2025-09-13,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Mixer Grinder,1,3552.68,Cash on Delivery,Completed,3552.68
+ORD1206,2025-09-13,C004,Sneha Joshi,Bengaluru,Karnataka,Home & Kitchen,Electric Kettle,1,1558.38,Net Banking,Completed,1558.38
+ORD1337,2025-09-14,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Laptop,2,52707.47,UPI,Shipped,105414.94
+ORD1263,2025-09-14,C001,Amit Sharma,Pune,Maharashtra,Books,Business Management,2,534.27,Net Banking,Shipped,1068.54
+ORD0139,2025-09-14,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Bedsheet,1,1084.03,UPI,Shipped,1084.03
+ORD1444,2025-09-14,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,SQL for Beginners,4,554.04,UPI,Completed,2216.16
+ORD0869,2025-09-14,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Shampoo,1,575.37,Credit Card,Completed,575.37
+ORD1313,2025-09-15,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Bluetooth Speaker,1,3353.73,Net Banking,Completed,3353.73
+ORD1089,2025-09-15,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Electric Kettle,2,1631.18,Cash on Delivery,Completed,3262.36
+ORD0748,2025-09-16,C007,Rohit Kumar,Hyderabad,Telangana,Books,Python Programming,2,636.73,UPI,Completed,1273.46
+ORD1057,2025-09-16,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Sneakers,2,3097.39,Credit Card,Completed,6194.78
+ORD1357,2025-09-17,C001,Amit Sharma,Pune,Maharashtra,Beauty,Perfume,2,1414.85,Debit Card,Shipped,2829.7
+ORD1307,2025-09-17,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,T-Shirt,1,755.09,UPI,Completed,755.09
+ORD0298,2025-09-17,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Jeans,2,1636.75,Cash on Delivery,Completed,3273.5
+ORD0133,2025-09-18,C020,Simran Kaur,Amritsar,Punjab,Books,Business Management,4,528.67,Credit Card,Completed,2114.68
+ORD1327,2025-09-18,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Fiction Novel,2,427.81,UPI,Completed,855.62
+ORD0871,2025-09-19,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Electric Kettle,1,1565.3,UPI,Completed,1565.3
+ORD0683,2025-09-19,C003,Rahul Verma,Delhi,Delhi,Books,Python Programming,1,710.64,Net Banking,Completed,710.64
+ORD0210,2025-09-19,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Face Wash,2,410.05,Net Banking,Completed,820.1
+ORD0728,2025-09-20,C003,Rahul Verma,Delhi,Delhi,Clothing,Jacket,1,2316.92,Debit Card,Completed,2316.92
+ORD1210,2025-09-21,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Smartphone,1,27853.13,UPI,Completed,27853.13
+ORD1346,2025-09-21,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Data Analytics,1,906.62,UPI,Shipped,906.62
+ORD0973,2025-09-21,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Bedsheet,1,1074.35,Credit Card,Completed,1074.35
+ORD0386,2025-09-21,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Sneakers,2,2737.78,Net Banking,Completed,5475.56
+ORD0040,2025-09-21,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,T-Shirt,3,781.92,Debit Card,Completed,2345.7599999999998
+ORD0975,2025-09-22,C014,Kavita Das,Bhubaneswar,Odisha,Beauty,Moisturizer,1,702.78,UPI,Completed,702.78
+ORD1440,2025-09-22,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Laptop,1,53191.13,UPI,Completed,53191.13
+ORD0370,2025-09-22,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Headphones,2,2417.45,Net Banking,Completed,4834.9
+ORD0257,2025-09-22,C003,Rahul Verma,Delhi,Delhi,Clothing,Jacket,3,2570.26,UPI,Completed,7710.780000000001
+ORD0703,2025-09-23,C020,Simran Kaur,Amritsar,Punjab,Clothing,T-Shirt,2,841.92,Debit Card,Completed,1683.84
+ORD0290,2025-09-23,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Bedsheet,2,1013.59,Net Banking,Completed,2027.18
+ORD0986,2025-09-24,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Face Wash,4,413.64,Net Banking,Completed,1654.56
+ORD0654,2025-09-24,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Laptop,2,56286.38,Credit Card,Completed,112572.76
+ORD0676,2025-09-24,C001,Amit Sharma,Pune,Maharashtra,Beauty,Hair Dryer,3,2112.26,Credit Card,Completed,6336.780000000001
+ORD1124,2025-09-24,C017,Aditya Mishra,Noida,Uttar Pradesh,Electronics,Smartwatch,4,5156.92,Debit Card,Shipped,20627.68
+ORD0362,2025-09-24,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Mixer Grinder,1,3457.76,UPI,Completed,3457.76
+ORD0409,2025-09-25,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Smartphone,1,29091.34,UPI,Completed,29091.34
+ORD1453,2025-09-25,C020,Simran Kaur,Amritsar,Punjab,Clothing,Sneakers,1,3028.03,Net Banking,Completed,3028.03
+ORD0364,2025-09-25,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Jacket,1,2328.05,UPI,Completed,2328.05
+ORD0950,2025-09-25,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Sneakers,1,3096.36,Credit Card,Completed,3096.36
+ORD1333,2025-09-25,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Jacket,1,2652.91,Debit Card,Completed,2652.91
+ORD1025,2025-09-26,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Table Lamp,2,1274.67,Cash on Delivery,Shipped,2549.34
+ORD0445,2025-09-26,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Laptop,1,56545.24,Debit Card,Completed,56545.24
+ORD0010,2025-09-27,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Electric Kettle,1,1467.57,Debit Card,Completed,1467.57
+ORD0997,2025-09-27,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Moisturizer,2,717.26,Credit Card,Completed,1434.52
+ORD1049,2025-09-27,C003,Rahul Verma,Delhi,Delhi,Beauty,Moisturizer,2,735.19,Credit Card,Completed,1470.38
+ORD1230,2025-09-27,C016,Riya Kapoor,Chandigarh,Chandigarh,Home & Kitchen,Table Lamp,1,1242.82,Debit Card,Completed,1242.82
+ORD1488,2025-09-28,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,3,3195.21,Credit Card,Completed,9585.630000000001
+ORD0497,2025-09-28,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Bedsheet,1,971.9,Net Banking,Completed,971.9
+ORD1180,2025-09-28,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Laptop,4,55575.54,UPI,Completed,222302.16
+ORD1217,2025-09-28,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,SQL for Beginners,2,652.54,UPI,Completed,1305.08
+ORD0941,2025-09-28,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Perfume,3,1467.65,UPI,Completed,4402.950000000001
+ORD1246,2025-09-28,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Table Lamp,3,1301.22,Debit Card,Completed,3903.66
+ORD0375,2025-09-29,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Headphones,1,2312.21,UPI,Completed,2312.21
+ORD1169,2025-09-29,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Face Wash,3,378.54,Net Banking,Completed,1135.6200000000001
+ORD0055,2025-09-29,C002,Priya Patel,Mumbai,Maharashtra,Books,SQL for Beginners,1,618.19,Credit Card,Completed,618.19
+ORD0425,2025-09-30,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Cookware Set,4,4252.34,Debit Card,Completed,17009.36
+ORD0625,2025-09-30,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Hair Dryer,2,2099.06,UPI,Completed,4198.12
+ORD0634,2025-09-30,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Mixer Grinder,4,3236.92,UPI,Completed,12947.68
+ORD1250,2025-09-30,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Electric Kettle,2,1499.43,Cash on Delivery,Completed,2998.86
+ORD0637,2025-09-30,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Jacket,1,2567.52,Debit Card,Completed,2567.52
+ORD1259,2025-10-01,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Kurta,2,1317.05,Credit Card,Completed,2634.1
+ORD0784,2025-10-01,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Kurta,3,1354.83,UPI,Completed,4064.49
+ORD0420,2025-10-01,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Headphones,4,2471.08,Net Banking,Shipped,9884.32
+ORD1076,2025-10-01,C011,Karan Shah,Surat,Gujarat,Books,SQL for Beginners,3,556.02,Net Banking,Completed,1668.06
+ORD0077,2025-10-02,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Smartwatch,3,5207.14,Net Banking,Completed,15621.420000000002
+ORD0689,2025-10-02,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Table Lamp,2,1349.35,UPI,Completed,2698.7
+ORD1320,2025-10-02,C011,Karan Shah,Surat,Gujarat,Beauty,Face Wash,1,415.4,UPI,Completed,415.4
+ORD0053,2025-10-02,C010,Anjali Rao,Kolkata,West Bengal,Beauty,Perfume,1,1468.67,Credit Card,Completed,1468.67
+ORD1244,2025-10-04,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Cookware Set,1,4355.53,Net Banking,Completed,4355.53
+ORD0649,2025-10-04,C014,Kavita Das,Bhubaneswar,Odisha,Beauty,Hair Dryer,4,1972.55,Credit Card,Completed,7890.2
+ORD0038,2025-10-04,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Smartwatch,1,4517.17,UPI,Completed,4517.17
+ORD0581,2025-10-05,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Cookware Set,1,4075.22,UPI,Completed,4075.22
+ORD0956,2025-10-05,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,1,3601.46,Net Banking,Completed,3601.46
+ORD1023,2025-10-05,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Jeans,2,1641.07,Net Banking,Completed,3282.14
+ORD0611,2025-10-05,C004,Sneha Joshi,Bengaluru,Karnataka,Beauty,Moisturizer,3,749.98,Credit Card,Completed,2249.94
+ORD0736,2025-10-05,C006,Neha Singh,Jaipur,Rajasthan,Books,Data Analytics,1,978.2,UPI,Completed,978.2
+ORD0760,2025-10-06,C014,Kavita Das,Bhubaneswar,Odisha,Beauty,Face Wash,3,378.72,Cash on Delivery,Completed,1136.16
+ORD0254,2025-10-06,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Smartphone,1,30116.19,Credit Card,Completed,30116.19
+ORD1447,2025-10-07,C012,Meera Nair,Kochi,Kerala,Beauty,Hair Dryer,4,1872.92,UPI,Completed,7491.68
+ORD0344,2025-10-07,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Jeans,1,1729.92,Debit Card,Completed,1729.92
+ORD1249,2025-10-07,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Python Programming,1,678.92,Credit Card,Shipped,678.92
+ORD0690,2025-10-08,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Data Analytics,2,907.53,UPI,Completed,1815.06
+ORD0455,2025-10-08,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Laptop,2,50925.61,UPI,Completed,101851.22
+ORD0369,2025-10-08,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Fiction Novel,1,401.19,Net Banking,Completed,401.19
+ORD0381,2025-10-08,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Bedsheet,1,983.53,Credit Card,Completed,983.53
+ORD1061,2025-10-09,C020,Simran Kaur,Amritsar,Punjab,Beauty,Moisturizer,3,666.81,Credit Card,Completed,2000.4299999999998
+ORD1429,2025-10-09,C005,Arjun Mehta,Ahmedabad,Gujarat,Home & Kitchen,Electric Kettle,1,1459.13,Credit Card,Completed,1459.13
+ORD0174,2025-10-09,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Kurta,4,1428.73,Credit Card,Shipped,5714.92
+ORD0564,2025-10-09,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Table Lamp,2,1332.37,UPI,Completed,2664.74
+ORD0528,2025-10-10,C002,Priya Patel,Mumbai,Maharashtra,Books,SQL for Beginners,1,583.82,Debit Card,Completed,583.82
+ORD0323,2025-10-10,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Moisturizer,1,647.52,Cash on Delivery,Completed,647.52
+ORD1034,2025-10-10,C006,Neha Singh,Jaipur,Rajasthan,Books,Data Analytics,2,954.91,Cash on Delivery,Completed,1909.82
+ORD0803,2025-10-10,C003,Rahul Verma,Delhi,Delhi,Books,SQL for Beginners,2,545.53,Cash on Delivery,Completed,1091.06
+ORD0070,2025-10-11,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Perfume,2,1455.5,Cash on Delivery,Shipped,2911.0
+ORD0194,2025-10-11,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Clothing,T-Shirt,2,754.29,UPI,Completed,1508.58
+ORD1375,2025-10-11,C003,Rahul Verma,Delhi,Delhi,Beauty,Hair Dryer,2,1995.25,Net Banking,Shipped,3990.5
+ORD0426,2025-10-11,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Bluetooth Speaker,4,3425.62,Net Banking,Completed,13702.48
+ORD0842,2025-10-11,C016,Riya Kapoor,Chandigarh,Chandigarh,Clothing,Sneakers,4,3154.53,UPI,Completed,12618.12
+ORD0208,2025-10-12,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,Sneakers,4,3015.21,Debit Card,Completed,12060.84
+ORD0205,2025-10-12,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Moisturizer,3,765.19,Credit Card,Completed,2295.57
+ORD0482,2025-10-12,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Clothing,T-Shirt,2,851.64,Cash on Delivery,Shipped,1703.28
+ORD0406,2025-10-12,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Table Lamp,1,1413.76,Debit Card,Completed,1413.76
+ORD1160,2025-10-13,C012,Meera Nair,Kochi,Kerala,Books,SQL for Beginners,2,557.31,UPI,Completed,1114.62
+ORD0372,2025-10-13,C002,Priya Patel,Mumbai,Maharashtra,Books,SQL for Beginners,1,644.5,UPI,Completed,644.5
+ORD1102,2025-10-13,C001,Amit Sharma,Pune,Maharashtra,Books,Business Management,3,495.08,Debit Card,Completed,1485.24
+ORD1184,2025-10-14,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Headphones,2,2465.64,Net Banking,Shipped,4931.28
+ORD0295,2025-10-14,C011,Karan Shah,Surat,Gujarat,Electronics,Smartphone,2,27242.87,UPI,Completed,54485.74
+ORD0093,2025-10-15,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Cookware Set,2,3764.84,UPI,Completed,7529.68
+ORD0716,2025-10-15,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Perfume,3,1352.97,Net Banking,Shipped,4058.91
+ORD1092,2025-10-15,C011,Karan Shah,Surat,Gujarat,Beauty,Hair Dryer,1,1976.79,Net Banking,Completed,1976.79
+ORD1352,2025-10-15,C011,Karan Shah,Surat,Gujarat,Books,Fiction Novel,4,408.95,Net Banking,Completed,1635.8
+ORD0127,2025-10-15,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Clothing,Jacket,4,2605.85,Credit Card,Completed,10423.4
+ORD0045,2025-10-15,C003,Rahul Verma,Delhi,Delhi,Clothing,Jacket,3,2297.67,Debit Card,Completed,6893.01
+ORD0058,2025-10-16,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Face Wash,2,396.88,Credit Card,Completed,793.76
+ORD0014,2025-10-16,C011,Karan Shah,Surat,Gujarat,Beauty,Perfume,1,1562.36,Debit Card,Shipped,1562.36
+ORD1286,2025-10-16,C002,Priya Patel,Mumbai,Maharashtra,Beauty,Moisturizer,1,674.59,Net Banking,Completed,674.59
+ORD1317,2025-10-16,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Headphones,2,2305.77,UPI,Completed,4611.54
+ORD0353,2025-10-16,C010,Anjali Rao,Kolkata,West Bengal,Books,Fiction Novel,4,413.66,Credit Card,Completed,1654.64
+ORD1229,2025-10-16,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,SQL for Beginners,3,553.45,Credit Card,Completed,1660.3500000000001
+ORD0088,2025-10-16,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Cookware Set,2,3620.19,Net Banking,Completed,7240.38
+ORD0877,2025-10-16,C006,Neha Singh,Jaipur,Rajasthan,Books,Python Programming,1,662.18,Credit Card,Completed,662.18
+ORD1494,2025-10-17,C004,Sneha Joshi,Bengaluru,Karnataka,Beauty,Shampoo,1,595.44,Net Banking,Completed,595.44
+ORD0308,2025-10-17,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Python Programming,2,718.18,UPI,Completed,1436.36
+ORD1187,2025-10-17,C003,Rahul Verma,Delhi,Delhi,Clothing,Sneakers,3,2988.34,Cash on Delivery,Shipped,8965.02
+ORD0169,2025-10-18,C011,Karan Shah,Surat,Gujarat,Clothing,Jacket,1,2478.85,Net Banking,Completed,2478.85
+ORD0256,2025-10-18,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Fiction Novel,1,378.06,UPI,Completed,378.06
+ORD0588,2025-10-18,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Table Lamp,2,1251.74,UPI,Completed,2503.48
+ORD1407,2025-10-19,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Moisturizer,2,753.94,Debit Card,Shipped,1507.88
+ORD0315,2025-10-19,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Table Lamp,1,1171.81,Debit Card,Completed,1171.81
+ORD0105,2025-10-19,C011,Karan Shah,Surat,Gujarat,Beauty,Face Wash,2,359.31,Net Banking,Completed,718.62
+ORD0743,2025-10-19,C011,Karan Shah,Surat,Gujarat,Electronics,Smartphone,2,30328.41,Net Banking,Completed,60656.82
+ORD0808,2025-10-19,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,T-Shirt,1,827.63,UPI,Completed,827.63
+ORD0686,2025-10-19,C011,Karan Shah,Surat,Gujarat,Beauty,Shampoo,4,565.97,Net Banking,Shipped,2263.88
+ORD0261,2025-10-19,C015,Manish Jain,Indore,Madhya Pradesh,Books,Python Programming,2,762.56,Cash on Delivery,Completed,1525.12
+ORD1029,2025-10-20,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Electric Kettle,2,1501.75,UPI,Shipped,3003.5
+ORD1350,2025-10-21,C012,Meera Nair,Kochi,Kerala,Clothing,Sneakers,2,2775.99,UPI,Completed,5551.98
+ORD0648,2025-10-21,C020,Simran Kaur,Amritsar,Punjab,Beauty,Shampoo,2,553.46,Debit Card,Shipped,1106.92
+ORD0028,2025-10-21,C011,Karan Shah,Surat,Gujarat,Books,Business Management,1,473.27,UPI,Completed,473.27
+ORD0377,2025-10-21,C003,Rahul Verma,Delhi,Delhi,Electronics,Smartwatch,1,5011.65,UPI,Completed,5011.65
+ORD0827,2025-10-21,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Moisturizer,4,768.03,UPI,Completed,3072.12
+ORD0753,2025-10-22,C010,Anjali Rao,Kolkata,West Bengal,Books,Python Programming,1,660.8,UPI,Completed,660.8
+ORD0185,2025-10-22,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,1,3560.97,Net Banking,Shipped,3560.97
+ORD1095,2025-10-22,C014,Kavita Das,Bhubaneswar,Odisha,Books,SQL for Beginners,1,623.34,Credit Card,Completed,623.34
+ORD0526,2025-10-22,C006,Neha Singh,Jaipur,Rajasthan,Books,SQL for Beginners,1,611.42,UPI,Shipped,611.42
+ORD0124,2025-10-23,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Electric Kettle,1,1369.04,Debit Card,Completed,1369.04
+ORD1256,2025-10-23,C002,Priya Patel,Mumbai,Maharashtra,Books,Fiction Novel,4,380.42,Net Banking,Completed,1521.68
+ORD0602,2025-10-23,C011,Karan Shah,Surat,Gujarat,Books,SQL for Beginners,2,542.9,UPI,Shipped,1085.8
+ORD0011,2025-10-23,C014,Kavita Das,Bhubaneswar,Odisha,Books,Data Analytics,2,817.23,Net Banking,Completed,1634.46
+ORD1339,2025-10-23,C011,Karan Shah,Surat,Gujarat,Home & Kitchen,Mixer Grinder,1,3583.55,Net Banking,Completed,3583.55
+ORD1420,2025-10-24,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Smartphone,1,27555.53,Cash on Delivery,Completed,27555.53
+ORD0777,2025-10-24,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Sneakers,1,2871.95,Credit Card,Completed,2871.95
+ORD1389,2025-10-24,C007,Rohit Kumar,Hyderabad,Telangana,Beauty,Shampoo,1,588.31,Debit Card,Completed,588.31
+ORD1135,2025-10-24,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,T-Shirt,2,856.27,Cash on Delivery,Shipped,1712.54
+ORD1011,2025-10-25,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Mixer Grinder,2,3565.77,Net Banking,Completed,7131.54
+ORD0938,2025-10-25,C012,Meera Nair,Kochi,Kerala,Clothing,Kurta,2,1353.86,UPI,Shipped,2707.72
+ORD1239,2025-10-26,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Bluetooth Speaker,4,3222.65,UPI,Completed,12890.6
+ORD0046,2025-10-26,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Smartphone,1,29348.3,Debit Card,Completed,29348.3
+ORD0740,2025-10-26,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Smartwatch,1,5028.96,Credit Card,Shipped,5028.96
+ORD1387,2025-10-27,C020,Simran Kaur,Amritsar,Punjab,Clothing,Jeans,2,1726.25,UPI,Completed,3452.5
+ORD0695,2025-10-27,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,SQL for Beginners,1,543.29,UPI,Shipped,543.29
+ORD0277,2025-10-27,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Clothing,T-Shirt,1,827.79,UPI,Completed,827.79
+ORD0110,2025-10-27,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Jeans,3,1543.83,UPI,Completed,4631.49
+ORD0765,2025-10-28,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Moisturizer,1,711.26,Credit Card,Shipped,711.26
+ORD1475,2025-10-28,C001,Amit Sharma,Pune,Maharashtra,Books,Python Programming,4,762.78,UPI,Shipped,3051.12
+ORD0338,2025-10-28,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Mixer Grinder,1,3802.09,UPI,Completed,3802.09
+ORD1474,2025-10-28,C001,Amit Sharma,Pune,Maharashtra,Home & Kitchen,Electric Kettle,1,1365.81,Cash on Delivery,Completed,1365.81
+ORD0402,2025-10-28,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Electric Kettle,2,1441.85,Debit Card,Shipped,2883.7
+ORD0984,2025-10-28,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Bedsheet,4,934.24,Cash on Delivery,Completed,3736.96
+ORD0250,2025-10-29,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Electric Kettle,1,1628.2,Cash on Delivery,Completed,1628.2
+ORD1356,2025-10-29,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Clothing,Jeans,3,1566.89,Cash on Delivery,Completed,4700.67
+ORD0584,2025-10-29,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Table Lamp,2,1332.78,Debit Card,Completed,2665.56
+ORD0704,2025-10-30,C013,Suresh Patil,Nagpur,Maharashtra,Books,Business Management,1,514.19,UPI,Completed,514.19
+ORD0650,2025-10-30,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Shampoo,1,580.31,UPI,Completed,580.31
+ORD0095,2025-10-30,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Fiction Novel,1,369.79,Credit Card,Completed,369.79
+ORD1156,2025-10-30,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Cookware Set,2,4178.46,Net Banking,Completed,8356.92
+ORD0774,2025-10-30,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Electric Kettle,1,1369.83,UPI,Completed,1369.83
+ORD0171,2025-10-30,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Shampoo,1,621.83,UPI,Shipped,621.83
+ORD0662,2025-10-30,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Data Analytics,1,917.28,Credit Card,Completed,917.28
+ORD0589,2025-10-31,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,SQL for Beginners,1,540.74,UPI,Completed,540.74
+ORD0859,2025-10-31,C002,Priya Patel,Mumbai,Maharashtra,Home & Kitchen,Electric Kettle,1,1502.29,UPI,Completed,1502.29
+ORD1461,2025-10-31,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,T-Shirt,1,763.12,Cash on Delivery,Completed,763.12
+ORD0562,2025-11-01,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Jeans,2,1564.42,Debit Card,Completed,3128.84
+ORD0796,2025-11-01,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Smartwatch,4,4524.66,UPI,Completed,18098.64
+ORD1079,2025-11-01,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Smartwatch,1,5430.57,UPI,Completed,5430.57
+ORD0222,2025-11-01,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Smartphone,1,26137.9,Cash on Delivery,Completed,26137.9
+ORD0532,2025-11-01,C001,Amit Sharma,Pune,Maharashtra,Beauty,Shampoo,2,608.93,Credit Card,Shipped,1217.86
+ORD0759,2025-11-02,C011,Karan Shah,Surat,Gujarat,Beauty,Face Wash,3,395.35,UPI,Completed,1186.0500000000002
+ORD0094,2025-11-02,C007,Rohit Kumar,Hyderabad,Telangana,Electronics,Smartphone,3,29524.98,Net Banking,Completed,88574.94
+ORD0701,2025-11-02,C012,Meera Nair,Kochi,Kerala,Beauty,Perfume,1,1435.39,Debit Card,Completed,1435.39
+ORD1065,2025-11-02,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Table Lamp,2,1275.75,UPI,Completed,2551.5
+ORD0846,2025-11-02,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Smartwatch,1,4610.57,Cash on Delivery,Completed,4610.57
+ORD0737,2025-11-02,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Kurta,1,1325.45,Credit Card,Completed,1325.45
+ORD0815,2025-11-03,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,2,3150.25,UPI,Completed,6300.5
+ORD0991,2025-11-03,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Perfume,1,1381.25,UPI,Completed,1381.25
+ORD1326,2025-11-04,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Fiction Novel,3,396.84,Debit Card,Completed,1190.52
+ORD0097,2025-11-04,C002,Priya Patel,Mumbai,Maharashtra,Beauty,Moisturizer,3,706.66,Credit Card,Completed,2119.98
+ORD1397,2025-11-04,C003,Rahul Verma,Delhi,Delhi,Beauty,Hair Dryer,1,1963.22,Debit Card,Completed,1963.22
+ORD1103,2025-11-04,C020,Simran Kaur,Amritsar,Punjab,Clothing,T-Shirt,1,847.86,UPI,Completed,847.86
+ORD0786,2025-11-04,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Face Wash,4,371.37,Debit Card,Completed,1485.48
+ORD1097,2025-11-04,C012,Meera Nair,Kochi,Kerala,Beauty,Shampoo,1,601.91,Debit Card,Completed,601.91
+ORD0052,2025-11-04,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Table Lamp,1,1334.7,UPI,Shipped,1334.7
+ORD0031,2025-11-04,C003,Rahul Verma,Delhi,Delhi,Beauty,Perfume,2,1542.52,Cash on Delivery,Completed,3085.04
+ORD0530,2025-11-05,C001,Amit Sharma,Pune,Maharashtra,Beauty,Perfume,1,1483.74,Cash on Delivery,Completed,1483.74
+ORD0128,2025-11-05,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Laptop,1,53408.99,Cash on Delivery,Completed,53408.99
+ORD0163,2025-11-05,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Jacket,1,2549.24,UPI,Shipped,2549.24
+ORD0141,2025-11-05,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Table Lamp,2,1267.64,UPI,Completed,2535.28
+ORD0884,2025-11-06,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Perfume,1,1576.28,UPI,Completed,1576.28
+ORD1200,2025-11-06,C003,Rahul Verma,Delhi,Delhi,Beauty,Moisturizer,2,682.72,UPI,Completed,1365.44
+ORD0770,2025-11-06,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Cookware Set,3,4014.69,UPI,Completed,12044.07
+ORD1413,2025-11-06,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,Sneakers,2,3195.02,Credit Card,Completed,6390.04
+ORD1128,2025-11-07,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Cookware Set,1,4163.75,UPI,Shipped,4163.75
+ORD1154,2025-11-07,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Business Management,1,539.61,UPI,Completed,539.61
+ORD0179,2025-11-07,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Laptop,2,56274.5,Credit Card,Shipped,112549.0
+ORD0286,2025-11-07,C020,Simran Kaur,Amritsar,Punjab,Books,Data Analytics,1,917.09,UPI,Completed,917.09
+ORD0802,2025-11-08,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Laptop,2,57661.76,Debit Card,Completed,115323.52
+ORD0471,2025-11-08,C004,Sneha Joshi,Bengaluru,Karnataka,Clothing,Jacket,1,2368.63,Cash on Delivery,Completed,2368.63
+ORD1436,2025-11-09,C001,Amit Sharma,Pune,Maharashtra,Beauty,Face Wash,1,437.39,UPI,Completed,437.39
+ORD1358,2025-11-09,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Headphones,2,2717.34,UPI,Completed,5434.68
+ORD1243,2025-11-09,C007,Rohit Kumar,Hyderabad,Telangana,Books,Data Analytics,3,941.89,UPI,Shipped,2825.67
+ORD0732,2025-11-09,C013,Suresh Patil,Nagpur,Maharashtra,Books,Data Analytics,1,914.2,UPI,Completed,914.2
+ORD1099,2025-11-09,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,Fiction Novel,2,402.65,Credit Card,Completed,805.3
+ORD0553,2025-11-09,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Electric Kettle,4,1487.56,UPI,Completed,5950.24
+ORD1137,2025-11-09,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Electronics,Smartwatch,1,5469.46,Cash on Delivery,Completed,5469.46
+ORD0302,2025-11-10,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Table Lamp,2,1366.62,UPI,Completed,2733.24
+ORD0503,2025-11-10,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Sneakers,2,3154.39,UPI,Completed,6308.78
+ORD0225,2025-11-10,C007,Rohit Kumar,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,2,3536.09,Net Banking,Completed,7072.18
+ORD0198,2025-11-10,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Jeans,2,1720.8,Credit Card,Completed,3441.6
+ORD1030,2025-11-10,C003,Rahul Verma,Delhi,Delhi,Books,SQL for Beginners,2,658.42,UPI,Completed,1316.84
+ORD0931,2025-11-11,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Laptop,1,52369.34,UPI,Completed,52369.34
+ORD0626,2025-11-11,C013,Suresh Patil,Nagpur,Maharashtra,Books,Data Analytics,3,918.77,UPI,Shipped,2756.31
+ORD0959,2025-11-11,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Smartphone,3,28934.84,Cash on Delivery,Completed,86804.52
+ORD1059,2025-11-11,C007,Rohit Kumar,Hyderabad,Telangana,Home & Kitchen,Bedsheet,4,1043.49,Cash on Delivery,Completed,4173.96
+ORD1464,2025-11-12,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Table Lamp,1,1286.58,Cash on Delivery,Completed,1286.58
+ORD0125,2025-11-12,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Home & Kitchen,Mixer Grinder,1,3674.3,UPI,Completed,3674.3
+ORD1343,2025-11-12,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Sneakers,2,2895.05,UPI,Completed,5790.1
+ORD0276,2025-11-12,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Jeans,2,1580.58,UPI,Completed,3161.16
+ORD0294,2025-11-12,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Bedsheet,2,986.91,Net Banking,Completed,1973.82
+ORD0236,2025-11-12,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,T-Shirt,2,788.96,Credit Card,Completed,1577.92
+ORD1331,2025-11-13,C009,Vikas Yadav,Chennai,Tamil Nadu,Electronics,Smartphone,4,26671.08,Net Banking,Completed,106684.32
+ORD0041,2025-11-13,C001,Amit Sharma,Pune,Maharashtra,Home & Kitchen,Table Lamp,1,1219.82,Credit Card,Completed,1219.82
+ORD0561,2025-11-13,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Cookware Set,1,3995.56,UPI,Completed,3995.56
+ORD0384,2025-11-13,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Table Lamp,2,1198.35,UPI,Completed,2396.7
+ORD1374,2025-11-14,C011,Karan Shah,Surat,Gujarat,Beauty,Moisturizer,4,696.46,UPI,Completed,2785.84
+ORD0794,2025-11-14,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Perfume,3,1470.62,Net Banking,Shipped,4411.86
+ORD0538,2025-11-14,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Smartphone,1,27770.07,Debit Card,Completed,27770.07
+ORD0603,2025-11-14,C020,Simran Kaur,Amritsar,Punjab,Beauty,Hair Dryer,4,2152.09,Credit Card,Completed,8608.36
+ORD0024,2025-11-14,C015,Manish Jain,Indore,Madhya Pradesh,Books,SQL for Beginners,1,587.48,Cash on Delivery,Shipped,587.48
+ORD0398,2025-11-14,C007,Rohit Kumar,Hyderabad,Telangana,Books,Python Programming,2,709.07,UPI,Completed,1418.14
+ORD0202,2025-11-15,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Jeans,1,1577.33,UPI,Completed,1577.33
+ORD0549,2025-11-15,C010,Anjali Rao,Kolkata,West Bengal,Books,Data Analytics,1,873.27,UPI,Completed,873.27
+ORD0615,2025-11-15,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Shampoo,4,562.97,UPI,Completed,2251.88
+ORD0272,2025-11-16,C013,Suresh Patil,Nagpur,Maharashtra,Books,Fiction Novel,3,370.41,UPI,Completed,1111.23
+ORD1126,2025-11-16,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Perfume,1,1493.75,UPI,Completed,1493.75
+ORD1222,2025-11-16,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Cookware Set,2,3657.73,Debit Card,Completed,7315.46
+ORD1319,2025-11-16,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Laptop,1,52778.43,UPI,Completed,52778.43
+ORD0435,2025-11-16,C011,Karan Shah,Surat,Gujarat,Electronics,Headphones,3,2512.61,UPI,Completed,7537.83
+ORD0633,2025-11-17,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Clothing,Jacket,1,2335.81,Debit Card,Completed,2335.81
+ORD0829,2025-11-17,C001,Amit Sharma,Pune,Maharashtra,Beauty,Hair Dryer,2,2016.84,Cash on Delivery,Completed,4033.68
+ORD0707,2025-11-17,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Hair Dryer,4,2051.52,Debit Card,Completed,8206.08
+ORD0778,2025-11-18,C006,Neha Singh,Jaipur,Rajasthan,Clothing,T-Shirt,2,770.03,Cash on Delivery,Completed,1540.06
+ORD0569,2025-11-18,C020,Simran Kaur,Amritsar,Punjab,Books,Fiction Novel,1,365.01,Credit Card,Shipped,365.01
+ORD0943,2025-11-18,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Shampoo,4,569.53,UPI,Completed,2278.12
+ORD1282,2025-11-18,C001,Amit Sharma,Pune,Maharashtra,Home & Kitchen,Electric Kettle,2,1466.05,Credit Card,Completed,2932.1
+ORD1335,2025-11-18,C006,Neha Singh,Jaipur,Rajasthan,Books,Fiction Novel,1,410.4,Net Banking,Completed,410.4
+ORD0763,2025-11-19,C001,Amit Sharma,Pune,Maharashtra,Electronics,Smartwatch,3,5487.44,Cash on Delivery,Completed,16462.32
+ORD1033,2025-11-19,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Bedsheet,1,905.4,Debit Card,Completed,905.4
+ORD1083,2025-11-19,C020,Simran Kaur,Amritsar,Punjab,Beauty,Perfume,2,1544.19,UPI,Completed,3088.38
+ORD0044,2025-11-19,C020,Simran Kaur,Amritsar,Punjab,Books,Python Programming,4,666.63,UPI,Completed,2666.52
+ORD0404,2025-11-20,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Table Lamp,2,1347.48,UPI,Completed,2694.96
+ORD0667,2025-11-20,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Bluetooth Speaker,4,3425.7,Credit Card,Completed,13702.8
+ORD1205,2025-11-20,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Python Programming,2,708.21,Credit Card,Completed,1416.42
+ORD0946,2025-11-20,C003,Rahul Verma,Delhi,Delhi,Books,Business Management,2,492.24,Debit Card,Completed,984.48
+ORD0945,2025-11-20,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Smartwatch,1,4917.36,UPI,Completed,4917.36
+ORD1174,2025-11-21,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Table Lamp,4,1428.84,UPI,Completed,5715.36
+ORD1047,2025-11-21,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Home & Kitchen,Table Lamp,2,1194.21,UPI,Completed,2388.42
+ORD0244,2025-11-21,C003,Rahul Verma,Delhi,Delhi,Clothing,T-Shirt,2,868.33,UPI,Completed,1736.66
+ORD1228,2025-11-21,C001,Amit Sharma,Pune,Maharashtra,Beauty,Shampoo,1,592.72,Credit Card,Shipped,592.72
+ORD1402,2025-11-22,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Cookware Set,2,3917.13,UPI,Completed,7834.26
+ORD1192,2025-11-22,C010,Anjali Rao,Kolkata,West Bengal,Books,Data Analytics,2,900.35,UPI,Completed,1800.7
+ORD1074,2025-11-22,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Electric Kettle,3,1589.75,UPI,Completed,4769.25
+ORD0237,2025-11-22,C007,Rohit Kumar,Hyderabad,Telangana,Books,Fiction Novel,2,406.42,Debit Card,Completed,812.84
+ORD0954,2025-11-22,C012,Meera Nair,Kochi,Kerala,Clothing,Jeans,4,1735.79,Debit Card,Completed,6943.16
+ORD1242,2025-11-23,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Fiction Novel,3,372.85,Cash on Delivery,Completed,1118.5500000000002
+ORD1257,2025-11-23,C011,Karan Shah,Surat,Gujarat,Electronics,Bluetooth Speaker,1,3219.89,Cash on Delivery,Shipped,3219.89
+ORD0437,2025-11-23,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Clothing,Jacket,1,2663.17,UPI,Completed,2663.17
+ORD0617,2025-11-23,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Electric Kettle,3,1600.4,UPI,Completed,4801.200000000001
+ORD0597,2025-11-23,C010,Anjali Rao,Kolkata,West Bengal,Books,SQL for Beginners,1,628.69,Credit Card,Completed,628.69
+ORD0383,2025-11-23,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Sneakers,2,2709.9,Debit Card,Completed,5419.8
+ORD0193,2025-11-24,C002,Priya Patel,Mumbai,Maharashtra,Books,Business Management,2,486.29,Debit Card,Completed,972.58
+ORD1027,2025-11-25,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Perfume,1,1477.97,UPI,Completed,1477.97
+ORD1031,2025-11-26,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Kurta,1,1174.21,UPI,Completed,1174.21
+ORD0889,2025-11-26,C009,Vikas Yadav,Chennai,Tamil Nadu,Home & Kitchen,Table Lamp,2,1308.7,Debit Card,Completed,2617.4
+ORD1120,2025-11-27,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Jeans,2,1611.53,Debit Card,Completed,3223.06
+ORD0804,2025-11-27,C007,Rohit Kumar,Hyderabad,Telangana,Home & Kitchen,Electric Kettle,4,1399.55,Debit Card,Completed,5598.2
+ORD1132,2025-11-27,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Laptop,2,49835.04,Credit Card,Completed,99670.08
+ORD0021,2025-11-27,C006,Neha Singh,Jaipur,Rajasthan,Home & Kitchen,Electric Kettle,2,1473.97,UPI,Completed,2947.94
+ORD0682,2025-11-27,C012,Meera Nair,Kochi,Kerala,Books,Fiction Novel,1,433.07,Credit Card,Completed,433.07
+ORD0073,2025-11-27,C005,Arjun Mehta,Ahmedabad,Gujarat,Electronics,Headphones,4,2521.95,UPI,Completed,10087.8
+ORD0479,2025-11-27,C011,Karan Shah,Surat,Gujarat,Home & Kitchen,Electric Kettle,1,1390.17,Net Banking,Completed,1390.17
+ORD1410,2025-11-28,C001,Amit Sharma,Pune,Maharashtra,Beauty,Hair Dryer,1,2121.88,UPI,Completed,2121.88
+ORD0502,2025-11-28,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,SQL for Beginners,4,562.0,UPI,Completed,2248.0
+ORD1212,2025-11-28,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,SQL for Beginners,1,655.18,Debit Card,Completed,655.18
+ORD0757,2025-11-29,C003,Rahul Verma,Delhi,Delhi,Beauty,Face Wash,1,403.62,UPI,Shipped,403.62
+ORD0310,2025-11-29,C012,Meera Nair,Kochi,Kerala,Electronics,Laptop,4,56982.51,UPI,Completed,227930.04
+ORD1108,2025-11-29,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Data Analytics,3,846.74,Debit Card,Completed,2540.2200000000003
+ORD1008,2025-11-29,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Table Lamp,1,1232.42,Net Banking,Completed,1232.42
+ORD0684,2025-11-29,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Face Wash,1,406.05,Credit Card,Completed,406.05
+ORD1359,2025-11-29,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Business Management,2,547.54,UPI,Completed,1095.08
+ORD0709,2025-11-30,C007,Rohit Kumar,Hyderabad,Telangana,Books,Business Management,2,456.03,Net Banking,Completed,912.06
+ORD1070,2025-11-30,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Data Analytics,2,968.9,Credit Card,Completed,1937.8
+ORD0123,2025-11-30,C017,Aditya Mishra,Noida,Uttar Pradesh,Electronics,Bluetooth Speaker,3,3671.13,Cash on Delivery,Shipped,11013.39
+ORD0835,2025-12-01,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Laptop,4,59959.01,Cash on Delivery,Completed,239836.04
+ORD0117,2025-12-01,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Perfume,3,1627.73,Credit Card,Completed,4883.1900000000005
+ORD0929,2025-12-01,C011,Karan Shah,Surat,Gujarat,Electronics,Headphones,4,2441.28,UPI,Completed,9765.12
+ORD1162,2025-12-02,C013,Suresh Patil,Nagpur,Maharashtra,Books,Business Management,3,504.52,UPI,Completed,1513.56
+ORD0705,2025-12-02,C020,Simran Kaur,Amritsar,Punjab,Beauty,Moisturizer,1,644.96,UPI,Completed,644.96
+ORD0463,2025-12-03,C013,Suresh Patil,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,3,3385.17,UPI,Completed,10155.51
+ORD0167,2025-12-03,C015,Manish Jain,Indore,Madhya Pradesh,Beauty,Hair Dryer,1,2037.01,Credit Card,Completed,2037.01
+ORD0860,2025-12-03,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Data Analytics,4,869.09,Net Banking,Completed,3476.36
+ORD1073,2025-12-03,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Cookware Set,1,3854.09,Credit Card,Completed,3854.09
+ORD0037,2025-12-04,C003,Rahul Verma,Delhi,Delhi,Books,Fiction Novel,2,381.76,Credit Card,Completed,763.52
+ORD1218,2025-12-04,C014,Kavita Das,Bhubaneswar,Odisha,Electronics,Smartwatch,1,4903.51,Cash on Delivery,Completed,4903.51
+ORD0566,2025-12-05,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Books,SQL for Beginners,1,602.78,Net Banking,Completed,602.78
+ORD1087,2025-12-05,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Bedsheet,1,1075.49,Net Banking,Completed,1075.49
+ORD1342,2025-12-05,C014,Kavita Das,Bhubaneswar,Odisha,Clothing,Jacket,2,2646.83,Credit Card,Completed,5293.66
+ORD1123,2025-12-06,C012,Meera Nair,Kochi,Kerala,Beauty,Shampoo,1,571.21,Debit Card,Completed,571.21
+ORD0582,2025-12-06,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Smartwatch,4,5482.21,Net Banking,Completed,21928.84
+ORD1148,2025-12-06,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Shampoo,2,610.55,UPI,Completed,1221.1
+ORD0036,2025-12-06,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Jacket,2,2698.2,Credit Card,Completed,5396.4
+ORD0955,2025-12-06,C006,Neha Singh,Jaipur,Rajasthan,Clothing,T-Shirt,1,862.88,UPI,Completed,862.88
+ORD0646,2025-12-06,C012,Meera Nair,Kochi,Kerala,Home & Kitchen,Table Lamp,1,1391.52,Net Banking,Completed,1391.52
+ORD1139,2025-12-06,C011,Karan Shah,Surat,Gujarat,Electronics,Laptop,1,55240.14,UPI,Completed,55240.14
+ORD0720,2025-12-06,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Laptop,1,54879.39,Debit Card,Completed,54879.39
+ORD1450,2025-12-07,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Business Management,1,482.57,Net Banking,Completed,482.57
+ORD0591,2025-12-07,C011,Karan Shah,Surat,Gujarat,Electronics,Headphones,1,2561.28,Credit Card,Completed,2561.28
+ORD0974,2025-12-07,C006,Neha Singh,Jaipur,Rajasthan,Books,Python Programming,1,717.32,Net Banking,Completed,717.32
+ORD1141,2025-12-08,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,SQL for Beginners,2,561.12,UPI,Completed,1122.24
+ORD0908,2025-12-08,C012,Meera Nair,Kochi,Kerala,Electronics,Smartwatch,1,5196.13,Net Banking,Shipped,5196.13
+ORD0393,2025-12-08,C004,Sneha Joshi,Bengaluru,Karnataka,Books,SQL for Beginners,2,597.52,UPI,Completed,1195.04
+ORD1318,2025-12-08,C011,Karan Shah,Surat,Gujarat,Books,Business Management,1,531.0,UPI,Shipped,531.0
+ORD0390,2025-12-09,C017,Aditya Mishra,Noida,Uttar Pradesh,Electronics,Smartphone,1,25340.79,Credit Card,Completed,25340.79
+ORD1446,2025-12-09,C013,Suresh Patil,Nagpur,Maharashtra,Beauty,Moisturizer,1,684.43,UPI,Completed,684.43
+ORD1445,2025-12-09,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Face Wash,4,422.43,Credit Card,Completed,1689.72
+ORD0718,2025-12-09,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Books,Data Analytics,1,865.72,UPI,Completed,865.72
+ORD0403,2025-12-09,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Jacket,1,2567.17,Debit Card,Completed,2567.17
+ORD0776,2025-12-09,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Beauty,Face Wash,2,398.06,UPI,Shipped,796.12
+ORD0450,2025-12-09,C017,Aditya Mishra,Noida,Uttar Pradesh,Beauty,Moisturizer,3,727.94,Credit Card,Completed,2183.82
+ORD1379,2025-12-09,C001,Amit Sharma,Pune,Maharashtra,Beauty,Shampoo,1,620.63,Credit Card,Completed,620.63
+ORD0184,2025-12-10,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Sneakers,4,2929.62,UPI,Shipped,11718.48
+ORD0309,2025-12-10,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Table Lamp,1,1186.42,Net Banking,Completed,1186.42
+ORD0201,2025-12-10,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Shampoo,4,584.23,Net Banking,Completed,2336.92
+ORD0417,2025-12-10,C017,Aditya Mishra,Noida,Uttar Pradesh,Home & Kitchen,Cookware Set,1,3987.47,Credit Card,Shipped,3987.47
+ORD1454,2025-12-11,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Python Programming,2,636.33,Cash on Delivery,Completed,1272.66
+ORD0656,2025-12-11,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Smartphone,4,25847.93,Debit Card,Completed,103391.72
+ORD0618,2025-12-11,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Data Analytics,4,890.73,Credit Card,Shipped,3562.92
+ORD1117,2025-12-12,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Moisturizer,1,666.61,UPI,Completed,666.61
+ORD0103,2025-12-12,C006,Neha Singh,Jaipur,Rajasthan,Electronics,Laptop,2,54568.57,Net Banking,Completed,109137.14
+ORD0960,2025-12-13,C007,Rohit Kumar,Hyderabad,Telangana,Home & Kitchen,Cookware Set,2,4099.82,UPI,Completed,8199.64
+ORD0775,2025-12-13,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Face Wash,2,414.91,Debit Card,Completed,829.82
+ORD0768,2025-12-14,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Beauty,Moisturizer,2,731.28,Debit Card,Completed,1462.56
+ORD1455,2025-12-14,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Hair Dryer,3,2049.44,Credit Card,Completed,6148.32
+ORD1096,2025-12-14,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Jacket,3,2500.96,UPI,Completed,7502.88
+ORD0855,2025-12-14,C016,Riya Kapoor,Chandigarh,Chandigarh,Beauty,Face Wash,1,405.66,Debit Card,Completed,405.66
+ORD0653,2025-12-15,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Business Management,1,546.96,UPI,Completed,546.96
+ORD0487,2025-12-15,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,SQL for Beginners,2,568.55,Credit Card,Completed,1137.1
+ORD0114,2025-12-16,C006,Neha Singh,Jaipur,Rajasthan,Clothing,T-Shirt,4,797.05,UPI,Completed,3188.2
+ORD0230,2025-12-16,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Laptop,4,54588.85,Cash on Delivery,Completed,218355.4
+ORD0814,2025-12-16,C002,Priya Patel,Mumbai,Maharashtra,Electronics,Smartwatch,2,5159.77,Credit Card,Shipped,10319.54
+ORD1161,2025-12-17,C004,Sneha Joshi,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,1,3193.36,Credit Card,Completed,3193.36
+ORD0971,2025-12-17,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Bluetooth Speaker,1,3757.71,Cash on Delivery,Shipped,3757.71
+ORD0550,2025-12-18,C013,Suresh Patil,Nagpur,Maharashtra,Books,Data Analytics,3,973.4,Net Banking,Completed,2920.2
+ORD0668,2025-12-18,C016,Riya Kapoor,Chandigarh,Chandigarh,Electronics,Smartwatch,2,4719.14,Net Banking,Completed,9438.28
+ORD0783,2025-12-18,C013,Suresh Patil,Nagpur,Maharashtra,Clothing,T-Shirt,2,787.25,Net Banking,Completed,1574.5
+ORD0809,2025-12-18,C015,Manish Jain,Indore,Madhya Pradesh,Home & Kitchen,Cookware Set,1,3704.9,Credit Card,Shipped,3704.9
+ORD0313,2025-12-18,C011,Karan Shah,Surat,Gujarat,Electronics,Bluetooth Speaker,2,3611.18,UPI,Completed,7222.36
+ORD1144,2025-12-19,C020,Simran Kaur,Amritsar,Punjab,Clothing,Jacket,1,2689.78,Cash on Delivery,Completed,2689.78
+ORD1245,2025-12-19,C003,Rahul Verma,Delhi,Delhi,Home & Kitchen,Table Lamp,3,1300.47,UPI,Completed,3901.41
+ORD1361,2025-12-19,C001,Amit Sharma,Pune,Maharashtra,Books,Fiction Novel,4,400.27,Debit Card,Completed,1601.08
+ORD1071,2025-12-19,C003,Rahul Verma,Delhi,Delhi,Electronics,Bluetooth Speaker,2,3248.6,Credit Card,Completed,6497.2
+ORD0232,2025-12-20,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Sneakers,2,2716.73,Credit Card,Completed,5433.46
+ORD1183,2025-12-20,C016,Riya Kapoor,Chandigarh,Chandigarh,Home & Kitchen,Cookware Set,1,3717.52,UPI,Completed,3717.52
+ORD0480,2025-12-21,C012,Meera Nair,Kochi,Kerala,Clothing,T-Shirt,1,750.57,Credit Card,Completed,750.57
+ORD0157,2025-12-21,C006,Neha Singh,Jaipur,Rajasthan,Clothing,Sneakers,1,3215.57,Cash on Delivery,Completed,3215.57
+ORD0947,2025-12-21,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Shampoo,2,576.58,Debit Card,Shipped,1153.16
+ORD1227,2025-12-21,C009,Vikas Yadav,Chennai,Tamil Nadu,Beauty,Moisturizer,3,640.05,Debit Card,Completed,1920.1499999999999
+ORD0666,2025-12-21,C017,Aditya Mishra,Noida,Uttar Pradesh,Clothing,Jeans,1,1746.83,UPI,Completed,1746.83
+ORD0343,2025-12-22,C017,Aditya Mishra,Noida,Uttar Pradesh,Books,Python Programming,1,760.14,UPI,Completed,760.14
+ORD0137,2025-12-22,C001,Amit Sharma,Pune,Maharashtra,Home & Kitchen,Table Lamp,2,1323.15,Cash on Delivery,Completed,2646.3
+ORD1149,2025-12-22,C002,Priya Patel,Mumbai,Maharashtra,Clothing,Kurta,1,1202.63,Cash on Delivery,Completed,1202.63
+ORD1167,2025-12-22,C017,Aditya Mishra,Noida,Uttar Pradesh,Electronics,Laptop,1,52438.82,UPI,Completed,52438.82
+ORD0531,2025-12-22,C016,Riya Kapoor,Chandigarh,Chandigarh,Books,Python Programming,1,737.07,Debit Card,Completed,737.07
+ORD0692,2025-12-22,C013,Suresh Patil,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,3,3832.13,Net Banking,Completed,11496.39
+ORD0590,2025-12-22,C014,Kavita Das,Bhubaneswar,Odisha,Books,Business Management,1,519.57,UPI,Completed,519.57
+ORD0507,2025-12-23,C020,Simran Kaur,Amritsar,Punjab,Home & Kitchen,Table Lamp,1,1202.86,UPI,Completed,1202.86
+ORD0894,2025-12-23,C010,Anjali Rao,Kolkata,West Bengal,Books,Fiction Novel,2,394.68,UPI,Completed,789.36
+ORD1476,2025-12-23,C015,Manish Jain,Indore,Madhya Pradesh,Electronics,Smartwatch,2,4534.68,UPI,Completed,9069.36
+ORD1300,2025-12-24,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Shampoo,2,617.06,Debit Card,Completed,1234.12
+ORD1075,2025-12-24,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Business Management,2,459.17,Net Banking,Shipped,918.34
+ORD0440,2025-12-24,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Bedsheet,2,980.44,UPI,Completed,1960.88
+ORD0091,2025-12-24,C006,Neha Singh,Jaipur,Rajasthan,Beauty,Shampoo,2,658.87,Cash on Delivery,Completed,1317.74
+ORD1151,2025-12-24,C015,Manish Jain,Indore,Madhya Pradesh,Clothing,Jacket,1,2401.89,Credit Card,Completed,2401.89
+ORD0540,2025-12-24,C013,Suresh Patil,Nagpur,Maharashtra,Books,Business Management,3,488.77,Debit Card,Completed,1466.31
+ORD1204,2025-12-24,C008,Pooja Gupta,Lucknow,Uttar Pradesh,Electronics,Smartwatch,1,5030.19,Credit Card,Shipped,5030.19
+ORD0424,2025-12-25,C014,Kavita Das,Bhubaneswar,Odisha,Home & Kitchen,Electric Kettle,2,1638.83,Credit Card,Completed,3277.66
+ORD0221,2025-12-25,C020,Simran Kaur,Amritsar,Punjab,Books,SQL for Beginners,4,555.0,UPI,Completed,2220.0
+ORD0282,2025-12-26,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Clothing,Jacket,3,2745.14,Net Banking,Completed,8235.42
+ORD0609,2025-12-26,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Fiction Novel,2,381.31,UPI,Completed,762.62
+ORD0644,2025-12-26,C010,Anjali Rao,Kolkata,West Bengal,Clothing,Sneakers,1,3087.48,Credit Card,Shipped,3087.48
+ORD0135,2025-12-26,C005,Arjun Mehta,Ahmedabad,Gujarat,Beauty,Hair Dryer,1,2182.54,Credit Card,Completed,2182.54
+ORD0449,2025-12-27,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Books,Business Management,1,521.13,Debit Card,Completed,521.13
+ORD0251,2025-12-27,C016,Riya Kapoor,Chandigarh,Chandigarh,Home & Kitchen,Bedsheet,2,1032.36,UPI,Completed,2064.72
+ORD0395,2025-12-28,C012,Meera Nair,Kochi,Kerala,Clothing,T-Shirt,1,864.1,Cash on Delivery,Completed,864.1
+ORD1362,2025-12-28,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Beauty,Shampoo,1,588.44,Credit Card,Completed,588.44
+ORD1240,2025-12-28,C012,Meera Nair,Kochi,Kerala,Electronics,Smartwatch,4,4564.92,Debit Card,Completed,18259.68
+ORD1168,2025-12-28,C009,Vikas Yadav,Chennai,Tamil Nadu,Clothing,Sneakers,3,2830.02,Net Banking,Completed,8490.06
+ORD0327,2025-12-28,C001,Amit Sharma,Pune,Maharashtra,Electronics,Smartwatch,1,4900.51,Debit Card,Completed,4900.51
+ORD1490,2025-12-29,C009,Vikas Yadav,Chennai,Tamil Nadu,Books,Python Programming,1,752.38,UPI,Completed,752.38
+ORD0823,2025-12-29,C001,Amit Sharma,Pune,Maharashtra,Electronics,Smartwatch,3,4897.66,UPI,Completed,14692.98
+ORD0816,2025-12-29,C005,Arjun Mehta,Ahmedabad,Gujarat,Clothing,Kurta,1,1196.48,Cash on Delivery,Completed,1196.48
+ORD1136,2025-12-29,C007,Rohit Kumar,Hyderabad,Telangana,Books,Fiction Novel,4,428.36,Net Banking,Completed,1713.44
+ORD1398,2025-12-30,C020,Simran Kaur,Amritsar,Punjab,Clothing,Jacket,4,2651.99,Debit Card,Completed,10607.96
+ORD0143,2025-12-30,C018,Nisha Iyer,Coimbatore,Tamil Nadu,Electronics,Smartphone,1,27732.42,Cash on Delivery,Completed,27732.42
+ORD1370,2025-12-30,C012,Meera Nair,Kochi,Kerala,Books,Fiction Novel,3,389.0,UPI,Completed,1167.0
+ORD0371,2025-12-30,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Electric Kettle,1,1490.36,Credit Card,Completed,1490.36
+ORD1082,2025-12-30,C007,Rohit Kumar,Hyderabad,Telangana,Clothing,T-Shirt,2,719.73,UPI,Completed,1439.46
+ORD1344,2025-12-31,C005,Arjun Mehta,Ahmedabad,Gujarat,Books,Data Analytics,1,934.11,Debit Card,Completed,934.11
+ORD1225,2025-12-31,C010,Anjali Rao,Kolkata,West Bengal,Electronics,Smartwatch,2,5135.11,Credit Card,Completed,10270.22
+ORD0432,2025-12-31,C019,Deepak Rao,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Table Lamp,4,1322.75,Credit Card,Shipped,5291.0
